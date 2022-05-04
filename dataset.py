@@ -1,12 +1,15 @@
 from PIL import Image
 import matplotlib.pyplot as plt
+import cv2
 
-from torch.utils.data import Dataset, DataLoader
+from torch.utils.data import Dataset
 from torchvision import transforms
+
+from utils.dataArgumentation import data_argumentation
 
 
 mask_transform = transforms.Compose([
-    transforms.Grayscale(num_output_channels=1),
+    # transforms.Grayscale(num_output_channels=1),
     transforms.ToTensor(),
     #     transforms.Normalize(norm_mean, norm_std),
 ])
@@ -22,9 +25,15 @@ class RoadDataset(Dataset):
     加载原始数据集和分割结果
     """
 
-    def __init__(self, file_path):
+    def __init__(self, file_path, train=True):
+        """
+
+        :param file_path: the path of .txt path
+        :param train: train val or text
+        """
         self.file_path = file_path
         self.data_list = self._read_txt()
+        self.train = train
 
     def __len__(self):
         return len(self.data_list)
@@ -39,41 +48,71 @@ class RoadDataset(Dataset):
         with open(self.file_path, 'r') as fh:
             for line in fh:
                 line = line.rstrip()  # 默认删除的是空白符（'\n', '\r', '\t', ' '）
-                # words = line.split()  # 默认以空格、换行(\n)、制表符(\t)进行分割，大多是"\"
-                # images.append((words[0], int(words[1])))  # 存放进imgs列表中
                 images.append(line)
         return images
 
     def plot_data(self, index):
         img_id = self.data_list[index]
-        img, mask = self._loader(img_id)
+        if not self.train:
+            img_name, mask_name = img_id + '_sat.jpg', img_id + '_mask.png'
+            img, mask = Image.open(img_name), Image.open(mask_name)
+        else:
+            img, mask = self._loader(img_id)
 
         plt.figure(figsize=(20, 10))
         plt.subplot(1, 2, 1)
         plt.title('original')
-        plt.imshow(img)
+        plt.imshow(img.permute(1, 2, 0))  # mark
         plt.xticks([])
         plt.yticks([])
 
         plt.subplot(1, 2, 2)
         plt.title('ground truth')
-        plt.imshow(mask, cmap='gray', interpolation='nearest')
+        plt.imshow(mask.permute(1, 2, 0), cmap='gray', interpolation='nearest')
         plt.xticks([])
         plt.yticks([])
 
         plt.show()
 
-    @staticmethod
-    def _loader(img_id):
+    def _loader(self, img_id):
         img_name, mask_name = img_id + '_sat.jpg', img_id + '_mask.png'
-        img, mask = Image.open(img_name), Image.open(mask_name)
-        return img, mask
+        # img, mask = Image.open(img_name), Image.open(mask_name)
+        img, mask = cv2.imread(img_name), cv2.imread(mask_name)  # , cv2.IMREAD_GRAYSCALE)
+        # img = cv2.imread(os.path.join(root, '{}_sat.jpg').format(id))
+        # mask = cv2.imread(os.path.join(root + '{}_mask.png').format(id), cv2.IMREAD_GRAYSCALE)
+
+        if self.train:
+            img, mask = data_argumentation(img, mask)
+
+        return img_transform(img), mask_transform(mask)
+
+    # @staticmethod
+    # def _data_argumentation(img, mask):
+    #     img, mask = data_argumentation(img, mask)
+    #
+    #     # img = random_hue_saturation_value(img, hue_shift_limit=(-30, 30), sat_shift_limit=(-5, 5),
+    #     #                                   val_shift_limit=(-15, 15))
+    #     #
+    #     # img, mask = random_shift_scale_rotate(img, mask, shift_limit=(-0.1, 0.1), scale_limit=(-0.1, 0.1),
+    #     #                                       aspect_limit=(-0.1, 0.1), rotate_limit=(-0, 0))
+    #     # img, mask = random_horizontal_flip(img, mask)
+    #     # img, mask = random_vertical_flip(img, mask)
+    #     # img, mask = random_rotate_90(img, mask)
+    #     #
+    #     # mask = np.expand_dims(mask, axis=2)
+    #     # # img = np.array(img, np.float32).transpose(2, 0, 1) / 255.0 * 3.2 - 1.6
+    #     # # mask = np.array(mask, np.float32).transpose(2, 0, 1) / 255.0
+    #     # mask[mask >= 0.5] = 1
+    #     # mask[mask <= 0.5] = 0
+    #     return img, mask
 
 
-# train_dataset = RoadDataset(train_path)
-# print(len(train_dataset))
+train_path = './data/train.txt'
+
+train_dataset = RoadDataset(train_path, train=True)
+print(len(train_dataset))
 
 # val_dataset = RoadDataset(val_path)
 # print(len(val_dataset))
-
-# train_dataset.plot_data(0)
+for _ in range(10):
+    train_dataset.plot_data(1)

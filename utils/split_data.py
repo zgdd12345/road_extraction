@@ -1,7 +1,7 @@
 import os
 import random
 
-from utils import is_img
+from utils.utils import is_img
 
 
 class DataSplit:
@@ -22,10 +22,18 @@ class DataSplit:
 
     def _generate_train_lists(self):
         random.shuffle(self.img_lists)
-        return self.img_lists[:int(len(self.img_lists)*0.8)], self.img_lists[int(len(self.img_lists)*0.8):]
+        train_lists = self.img_lists[:int(len(self.img_lists)*0.6)]
+        val_lists = self.img_lists[int(len(self.img_lists)*0.6):int(len(self.img_lists)*0.8)]
+        test_lists = self.img_lists[int(len(self.img_lists)*0.8):]
+        return train_lists, val_lists, test_lists
 
     def generate_txt(self, save_path):
-        train_lists, val_lists = self._generate_train_lists()
+        """
+        write train data 、val data and test data into txt file
+        :param save_path:
+        :return:without
+        """
+        train_lists, val_lists, test_lists = self._generate_train_lists()
         # print('len_train:{}, len_val:{}'.format(len(train_lists), len(val_lists)))
         with open(save_path + 'train.txt', 'w') as f:
             for img_num in train_lists:
@@ -34,6 +42,11 @@ class DataSplit:
 
         with open(save_path + 'validation.txt', 'w') as f:
             for img_num in val_lists:
+                img_path = os.path.join(self.img_path, img_num)
+                f.write(img_path + '\n')
+
+        with open(save_path + 'test.txt', 'w') as f:
+            for img_num in test_lists:
                 img_path = os.path.join(self.img_path, img_num)
                 f.write(img_path + '\n')
 
