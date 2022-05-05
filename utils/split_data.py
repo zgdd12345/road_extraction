@@ -1,7 +1,7 @@
 import os
 import random
 
-from utils.utils import is_img
+from utils import is_img
 
 
 class DataSplit:
@@ -51,8 +51,9 @@ class DataSplit:
                 f.write(img_path + '\n')
 
 
-path = 'F:/data/DeepGlobe Road Extraction Dataset/train/'
-save_txt = './data/'
+# path = 'F:/data/DeepGlobe Road Extraction Dataset/train/'
+path = '/Users/fsm/Road/data/train/'
+save_txt = '/Users/fsm/Road/road_extraction/data/'
 data_split = DataSplit(path)
 data_split.generate_txt(save_txt)
 

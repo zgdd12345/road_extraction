@@ -1,1246 +1,1245 @@
-F:/data/DeepGlobe Road Extraction Dataset/train/846744
-F:/data/DeepGlobe Road Extraction Dataset/train/286534
-F:/data/DeepGlobe Road Extraction Dataset/train/831213
-F:/data/DeepGlobe Road Extraction Dataset/train/716847
-F:/data/DeepGlobe Road Extraction Dataset/train/517474
-F:/data/DeepGlobe Road Extraction Dataset/train/772377
-F:/data/DeepGlobe Road Extraction Dataset/train/874302
-F:/data/DeepGlobe Road Extraction Dataset/train/730949
-F:/data/DeepGlobe Road Extraction Dataset/train/669101
-F:/data/DeepGlobe Road Extraction Dataset/train/625092
-F:/data/DeepGlobe Road Extraction Dataset/train/904706
-F:/data/DeepGlobe Road Extraction Dataset/train/109889
-F:/data/DeepGlobe Road Extraction Dataset/train/578203
-F:/data/DeepGlobe Road Extraction Dataset/train/929046
-F:/data/DeepGlobe Road Extraction Dataset/train/887947
-F:/data/DeepGlobe Road Extraction Dataset/train/227624
-F:/data/DeepGlobe Road Extraction Dataset/train/48710
-F:/data/DeepGlobe Road Extraction Dataset/train/818225
-F:/data/DeepGlobe Road Extraction Dataset/train/489313
-F:/data/DeepGlobe Road Extraction Dataset/train/966419
-F:/data/DeepGlobe Road Extraction Dataset/train/165219
-F:/data/DeepGlobe Road Extraction Dataset/train/457152
-F:/data/DeepGlobe Road Extraction Dataset/train/842960
-F:/data/DeepGlobe Road Extraction Dataset/train/519944
-F:/data/DeepGlobe Road Extraction Dataset/train/283097
-F:/data/DeepGlobe Road Extraction Dataset/train/725472
-F:/data/DeepGlobe Road Extraction Dataset/train/479232
-F:/data/DeepGlobe Road Extraction Dataset/train/678247
-F:/data/DeepGlobe Road Extraction Dataset/train/367358
-F:/data/DeepGlobe Road Extraction Dataset/train/873862
-F:/data/DeepGlobe Road Extraction Dataset/train/330017
-F:/data/DeepGlobe Road Extraction Dataset/train/723196
-F:/data/DeepGlobe Road Extraction Dataset/train/809153
-F:/data/DeepGlobe Road Extraction Dataset/train/972546
-F:/data/DeepGlobe Road Extraction Dataset/train/523322
-F:/data/DeepGlobe Road Extraction Dataset/train/584677
-F:/data/DeepGlobe Road Extraction Dataset/train/789055
-F:/data/DeepGlobe Road Extraction Dataset/train/441048
-F:/data/DeepGlobe Road Extraction Dataset/train/160175
-F:/data/DeepGlobe Road Extraction Dataset/train/25262
-F:/data/DeepGlobe Road Extraction Dataset/train/877582
-F:/data/DeepGlobe Road Extraction Dataset/train/169762
-F:/data/DeepGlobe Road Extraction Dataset/train/129375
-F:/data/DeepGlobe Road Extraction Dataset/train/815402
-F:/data/DeepGlobe Road Extraction Dataset/train/711693
-F:/data/DeepGlobe Road Extraction Dataset/train/860229
-F:/data/DeepGlobe Road Extraction Dataset/train/727315
-F:/data/DeepGlobe Road Extraction Dataset/train/288500
-F:/data/DeepGlobe Road Extraction Dataset/train/384693
-F:/data/DeepGlobe Road Extraction Dataset/train/381744
-F:/data/DeepGlobe Road Extraction Dataset/train/265006
-F:/data/DeepGlobe Road Extraction Dataset/train/194764
-F:/data/DeepGlobe Road Extraction Dataset/train/409301
-F:/data/DeepGlobe Road Extraction Dataset/train/667627
-F:/data/DeepGlobe Road Extraction Dataset/train/625913
-F:/data/DeepGlobe Road Extraction Dataset/train/259840
-F:/data/DeepGlobe Road Extraction Dataset/train/223078
-F:/data/DeepGlobe Road Extraction Dataset/train/948711
-F:/data/DeepGlobe Road Extraction Dataset/train/590066
-F:/data/DeepGlobe Road Extraction Dataset/train/49576
-F:/data/DeepGlobe Road Extraction Dataset/train/20949
-F:/data/DeepGlobe Road Extraction Dataset/train/931532
-F:/data/DeepGlobe Road Extraction Dataset/train/947964
-F:/data/DeepGlobe Road Extraction Dataset/train/251998
-F:/data/DeepGlobe Road Extraction Dataset/train/295155
-F:/data/DeepGlobe Road Extraction Dataset/train/356917
-F:/data/DeepGlobe Road Extraction Dataset/train/48189
-F:/data/DeepGlobe Road Extraction Dataset/train/268879
-F:/data/DeepGlobe Road Extraction Dataset/train/572867
-F:/data/DeepGlobe Road Extraction Dataset/train/58733
-F:/data/DeepGlobe Road Extraction Dataset/train/46214
-F:/data/DeepGlobe Road Extraction Dataset/train/879980
-F:/data/DeepGlobe Road Extraction Dataset/train/980975
-F:/data/DeepGlobe Road Extraction Dataset/train/712728
-F:/data/DeepGlobe Road Extraction Dataset/train/511239
-F:/data/DeepGlobe Road Extraction Dataset/train/733133
-F:/data/DeepGlobe Road Extraction Dataset/train/664036
-F:/data/DeepGlobe Road Extraction Dataset/train/209090
-F:/data/DeepGlobe Road Extraction Dataset/train/768007
-F:/data/DeepGlobe Road Extraction Dataset/train/319353
-F:/data/DeepGlobe Road Extraction Dataset/train/627858
-F:/data/DeepGlobe Road Extraction Dataset/train/74010
-F:/data/DeepGlobe Road Extraction Dataset/train/860454
-F:/data/DeepGlobe Road Extraction Dataset/train/427560
-F:/data/DeepGlobe Road Extraction Dataset/train/582820
-F:/data/DeepGlobe Road Extraction Dataset/train/758481
-F:/data/DeepGlobe Road Extraction Dataset/train/733110
-F:/data/DeepGlobe Road Extraction Dataset/train/391736
-F:/data/DeepGlobe Road Extraction Dataset/train/538270
-F:/data/DeepGlobe Road Extraction Dataset/train/258578
-F:/data/DeepGlobe Road Extraction Dataset/train/752708
-F:/data/DeepGlobe Road Extraction Dataset/train/178753
-F:/data/DeepGlobe Road Extraction Dataset/train/979149
-F:/data/DeepGlobe Road Extraction Dataset/train/52850
-F:/data/DeepGlobe Road Extraction Dataset/train/700268
-F:/data/DeepGlobe Road Extraction Dataset/train/87662
-F:/data/DeepGlobe Road Extraction Dataset/train/634289
-F:/data/DeepGlobe Road Extraction Dataset/train/567448
-F:/data/DeepGlobe Road Extraction Dataset/train/467053
-F:/data/DeepGlobe Road Extraction Dataset/train/765415
-F:/data/DeepGlobe Road Extraction Dataset/train/834144
-F:/data/DeepGlobe Road Extraction Dataset/train/48819
-F:/data/DeepGlobe Road Extraction Dataset/train/391293
-F:/data/DeepGlobe Road Extraction Dataset/train/121541
-F:/data/DeepGlobe Road Extraction Dataset/train/228760
-F:/data/DeepGlobe Road Extraction Dataset/train/226308
-F:/data/DeepGlobe Road Extraction Dataset/train/201735
-F:/data/DeepGlobe Road Extraction Dataset/train/929277
-F:/data/DeepGlobe Road Extraction Dataset/train/5279
-F:/data/DeepGlobe Road Extraction Dataset/train/446998
-F:/data/DeepGlobe Road Extraction Dataset/train/471129
-F:/data/DeepGlobe Road Extraction Dataset/train/593063
-F:/data/DeepGlobe Road Extraction Dataset/train/560262
-F:/data/DeepGlobe Road Extraction Dataset/train/267853
-F:/data/DeepGlobe Road Extraction Dataset/train/237086
-F:/data/DeepGlobe Road Extraction Dataset/train/415383
-F:/data/DeepGlobe Road Extraction Dataset/train/600550
-F:/data/DeepGlobe Road Extraction Dataset/train/941572
-F:/data/DeepGlobe Road Extraction Dataset/train/150951
-F:/data/DeepGlobe Road Extraction Dataset/train/961077
-F:/data/DeepGlobe Road Extraction Dataset/train/201729
-F:/data/DeepGlobe Road Extraction Dataset/train/121994
-F:/data/DeepGlobe Road Extraction Dataset/train/512435
-F:/data/DeepGlobe Road Extraction Dataset/train/238789
-F:/data/DeepGlobe Road Extraction Dataset/train/873397
-F:/data/DeepGlobe Road Extraction Dataset/train/399107
-F:/data/DeepGlobe Road Extraction Dataset/train/825427
-F:/data/DeepGlobe Road Extraction Dataset/train/136539
-F:/data/DeepGlobe Road Extraction Dataset/train/950964
-F:/data/DeepGlobe Road Extraction Dataset/train/274630
-F:/data/DeepGlobe Road Extraction Dataset/train/168426
-F:/data/DeepGlobe Road Extraction Dataset/train/641511
-F:/data/DeepGlobe Road Extraction Dataset/train/448203
-F:/data/DeepGlobe Road Extraction Dataset/train/625448
-F:/data/DeepGlobe Road Extraction Dataset/train/802074
-F:/data/DeepGlobe Road Extraction Dataset/train/476415
-F:/data/DeepGlobe Road Extraction Dataset/train/620912
-F:/data/DeepGlobe Road Extraction Dataset/train/382065
-F:/data/DeepGlobe Road Extraction Dataset/train/879029
-F:/data/DeepGlobe Road Extraction Dataset/train/566479
-F:/data/DeepGlobe Road Extraction Dataset/train/2730
-F:/data/DeepGlobe Road Extraction Dataset/train/756116
-F:/data/DeepGlobe Road Extraction Dataset/train/848290
-F:/data/DeepGlobe Road Extraction Dataset/train/577799
-F:/data/DeepGlobe Road Extraction Dataset/train/799417
-F:/data/DeepGlobe Road Extraction Dataset/train/440968
-F:/data/DeepGlobe Road Extraction Dataset/train/392230
-F:/data/DeepGlobe Road Extraction Dataset/train/90474
-F:/data/DeepGlobe Road Extraction Dataset/train/492023
-F:/data/DeepGlobe Road Extraction Dataset/train/445320
-F:/data/DeepGlobe Road Extraction Dataset/train/524867
-F:/data/DeepGlobe Road Extraction Dataset/train/459088
-F:/data/DeepGlobe Road Extraction Dataset/train/383210
-F:/data/DeepGlobe Road Extraction Dataset/train/635312
-F:/data/DeepGlobe Road Extraction Dataset/train/62371
-F:/data/DeepGlobe Road Extraction Dataset/train/929716
-F:/data/DeepGlobe Road Extraction Dataset/train/741508
-F:/data/DeepGlobe Road Extraction Dataset/train/652662
-F:/data/DeepGlobe Road Extraction Dataset/train/301644
-F:/data/DeepGlobe Road Extraction Dataset/train/991461
-F:/data/DeepGlobe Road Extraction Dataset/train/818569
-F:/data/DeepGlobe Road Extraction Dataset/train/516986
-F:/data/DeepGlobe Road Extraction Dataset/train/312192
-F:/data/DeepGlobe Road Extraction Dataset/train/774528
-F:/data/DeepGlobe Road Extraction Dataset/train/590035
-F:/data/DeepGlobe Road Extraction Dataset/train/463706
-F:/data/DeepGlobe Road Extraction Dataset/train/429679
-F:/data/DeepGlobe Road Extraction Dataset/train/852350
-F:/data/DeepGlobe Road Extraction Dataset/train/976451
-F:/data/DeepGlobe Road Extraction Dataset/train/185263
-F:/data/DeepGlobe Road Extraction Dataset/train/852321
-F:/data/DeepGlobe Road Extraction Dataset/train/455694
-F:/data/DeepGlobe Road Extraction Dataset/train/60217
-F:/data/DeepGlobe Road Extraction Dataset/train/859149
-F:/data/DeepGlobe Road Extraction Dataset/train/271039
-F:/data/DeepGlobe Road Extraction Dataset/train/870630
-F:/data/DeepGlobe Road Extraction Dataset/train/232755
-F:/data/DeepGlobe Road Extraction Dataset/train/111121
-F:/data/DeepGlobe Road Extraction Dataset/train/82374
-F:/data/DeepGlobe Road Extraction Dataset/train/42737
-F:/data/DeepGlobe Road Extraction Dataset/train/607606
-F:/data/DeepGlobe Road Extraction Dataset/train/628983
-F:/data/DeepGlobe Road Extraction Dataset/train/960372
-F:/data/DeepGlobe Road Extraction Dataset/train/68814
-F:/data/DeepGlobe Road Extraction Dataset/train/504127
-F:/data/DeepGlobe Road Extraction Dataset/train/717068
-F:/data/DeepGlobe Road Extraction Dataset/train/638920
-F:/data/DeepGlobe Road Extraction Dataset/train/870215
-F:/data/DeepGlobe Road Extraction Dataset/train/580385
-F:/data/DeepGlobe Road Extraction Dataset/train/449027
-F:/data/DeepGlobe Road Extraction Dataset/train/82759
-F:/data/DeepGlobe Road Extraction Dataset/train/77698
-F:/data/DeepGlobe Road Extraction Dataset/train/529543
-F:/data/DeepGlobe Road Extraction Dataset/train/901544
-F:/data/DeepGlobe Road Extraction Dataset/train/845047
-F:/data/DeepGlobe Road Extraction Dataset/train/74497
-F:/data/DeepGlobe Road Extraction Dataset/train/140917
-F:/data/DeepGlobe Road Extraction Dataset/train/162474
-F:/data/DeepGlobe Road Extraction Dataset/train/301568
-F:/data/DeepGlobe Road Extraction Dataset/train/253879
-F:/data/DeepGlobe Road Extraction Dataset/train/440978
-F:/data/DeepGlobe Road Extraction Dataset/train/415200
-F:/data/DeepGlobe Road Extraction Dataset/train/824303
-F:/data/DeepGlobe Road Extraction Dataset/train/153293
-F:/data/DeepGlobe Road Extraction Dataset/train/156400
-F:/data/DeepGlobe Road Extraction Dataset/train/385890
-F:/data/DeepGlobe Road Extraction Dataset/train/600841
-F:/data/DeepGlobe Road Extraction Dataset/train/382329
-F:/data/DeepGlobe Road Extraction Dataset/train/435684
-F:/data/DeepGlobe Road Extraction Dataset/train/933045
-F:/data/DeepGlobe Road Extraction Dataset/train/944485
-F:/data/DeepGlobe Road Extraction Dataset/train/534198
-F:/data/DeepGlobe Road Extraction Dataset/train/255193
-F:/data/DeepGlobe Road Extraction Dataset/train/299564
-F:/data/DeepGlobe Road Extraction Dataset/train/580674
-F:/data/DeepGlobe Road Extraction Dataset/train/998129
-F:/data/DeepGlobe Road Extraction Dataset/train/511055
-F:/data/DeepGlobe Road Extraction Dataset/train/547941
-F:/data/DeepGlobe Road Extraction Dataset/train/816279
-F:/data/DeepGlobe Road Extraction Dataset/train/774511
-F:/data/DeepGlobe Road Extraction Dataset/train/890023
-F:/data/DeepGlobe Road Extraction Dataset/train/416847
-F:/data/DeepGlobe Road Extraction Dataset/train/464065
-F:/data/DeepGlobe Road Extraction Dataset/train/736732
-F:/data/DeepGlobe Road Extraction Dataset/train/850527
-F:/data/DeepGlobe Road Extraction Dataset/train/779169
-F:/data/DeepGlobe Road Extraction Dataset/train/793658
-F:/data/DeepGlobe Road Extraction Dataset/train/893979
-F:/data/DeepGlobe Road Extraction Dataset/train/846281
-F:/data/DeepGlobe Road Extraction Dataset/train/836726
-F:/data/DeepGlobe Road Extraction Dataset/train/489655
-F:/data/DeepGlobe Road Extraction Dataset/train/299015
-F:/data/DeepGlobe Road Extraction Dataset/train/392225
-F:/data/DeepGlobe Road Extraction Dataset/train/99995
-F:/data/DeepGlobe Road Extraction Dataset/train/628060
-F:/data/DeepGlobe Road Extraction Dataset/train/906649
-F:/data/DeepGlobe Road Extraction Dataset/train/374028
-F:/data/DeepGlobe Road Extraction Dataset/train/895383
-F:/data/DeepGlobe Road Extraction Dataset/train/532161
-F:/data/DeepGlobe Road Extraction Dataset/train/933392
-F:/data/DeepGlobe Road Extraction Dataset/train/143192
-F:/data/DeepGlobe Road Extraction Dataset/train/335112
-F:/data/DeepGlobe Road Extraction Dataset/train/697165
-F:/data/DeepGlobe Road Extraction Dataset/train/256332
-F:/data/DeepGlobe Road Extraction Dataset/train/506242
-F:/data/DeepGlobe Road Extraction Dataset/train/823835
-F:/data/DeepGlobe Road Extraction Dataset/train/749859
-F:/data/DeepGlobe Road Extraction Dataset/train/217741
-F:/data/DeepGlobe Road Extraction Dataset/train/375532
-F:/data/DeepGlobe Road Extraction Dataset/train/4131
-F:/data/DeepGlobe Road Extraction Dataset/train/371829
-F:/data/DeepGlobe Road Extraction Dataset/train/611011
-F:/data/DeepGlobe Road Extraction Dataset/train/688154
-F:/data/DeepGlobe Road Extraction Dataset/train/571341
-F:/data/DeepGlobe Road Extraction Dataset/train/395487
-F:/data/DeepGlobe Road Extraction Dataset/train/583564
-F:/data/DeepGlobe Road Extraction Dataset/train/18781
-F:/data/DeepGlobe Road Extraction Dataset/train/768045
-F:/data/DeepGlobe Road Extraction Dataset/train/42359
-F:/data/DeepGlobe Road Extraction Dataset/train/857291
-F:/data/DeepGlobe Road Extraction Dataset/train/22174
-F:/data/DeepGlobe Road Extraction Dataset/train/40555
-F:/data/DeepGlobe Road Extraction Dataset/train/607487
-F:/data/DeepGlobe Road Extraction Dataset/train/299410
-F:/data/DeepGlobe Road Extraction Dataset/train/676440
-F:/data/DeepGlobe Road Extraction Dataset/train/595454
-F:/data/DeepGlobe Road Extraction Dataset/train/136504
-F:/data/DeepGlobe Road Extraction Dataset/train/778115
-F:/data/DeepGlobe Road Extraction Dataset/train/174211
-F:/data/DeepGlobe Road Extraction Dataset/train/286360
-F:/data/DeepGlobe Road Extraction Dataset/train/519132
-F:/data/DeepGlobe Road Extraction Dataset/train/885911
-F:/data/DeepGlobe Road Extraction Dataset/train/782279
-F:/data/DeepGlobe Road Extraction Dataset/train/962072
-F:/data/DeepGlobe Road Extraction Dataset/train/638717
-F:/data/DeepGlobe Road Extraction Dataset/train/99913
-F:/data/DeepGlobe Road Extraction Dataset/train/105282
-F:/data/DeepGlobe Road Extraction Dataset/train/585172
-F:/data/DeepGlobe Road Extraction Dataset/train/603190
-F:/data/DeepGlobe Road Extraction Dataset/train/274102
-F:/data/DeepGlobe Road Extraction Dataset/train/595564
-F:/data/DeepGlobe Road Extraction Dataset/train/446971
-F:/data/DeepGlobe Road Extraction Dataset/train/747616
-F:/data/DeepGlobe Road Extraction Dataset/train/18159
-F:/data/DeepGlobe Road Extraction Dataset/train/729246
-F:/data/DeepGlobe Road Extraction Dataset/train/541430
-F:/data/DeepGlobe Road Extraction Dataset/train/147586
-F:/data/DeepGlobe Road Extraction Dataset/train/358082
-F:/data/DeepGlobe Road Extraction Dataset/train/215026
-F:/data/DeepGlobe Road Extraction Dataset/train/263612
-F:/data/DeepGlobe Road Extraction Dataset/train/531068
-F:/data/DeepGlobe Road Extraction Dataset/train/260008
-F:/data/DeepGlobe Road Extraction Dataset/train/142373
-F:/data/DeepGlobe Road Extraction Dataset/train/466524
-F:/data/DeepGlobe Road Extraction Dataset/train/628204
-F:/data/DeepGlobe Road Extraction Dataset/train/140134
-F:/data/DeepGlobe Road Extraction Dataset/train/381461
-F:/data/DeepGlobe Road Extraction Dataset/train/177786
-F:/data/DeepGlobe Road Extraction Dataset/train/119603
-F:/data/DeepGlobe Road Extraction Dataset/train/500758
-F:/data/DeepGlobe Road Extraction Dataset/train/819282
-F:/data/DeepGlobe Road Extraction Dataset/train/572289
-F:/data/DeepGlobe Road Extraction Dataset/train/788463
-F:/data/DeepGlobe Road Extraction Dataset/train/42399
-F:/data/DeepGlobe Road Extraction Dataset/train/95245
-F:/data/DeepGlobe Road Extraction Dataset/train/779588
-F:/data/DeepGlobe Road Extraction Dataset/train/686693
-F:/data/DeepGlobe Road Extraction Dataset/train/38954
-F:/data/DeepGlobe Road Extraction Dataset/train/692921
-F:/data/DeepGlobe Road Extraction Dataset/train/421764
-F:/data/DeepGlobe Road Extraction Dataset/train/284874
-F:/data/DeepGlobe Road Extraction Dataset/train/361860
-F:/data/DeepGlobe Road Extraction Dataset/train/204654
-F:/data/DeepGlobe Road Extraction Dataset/train/296918
-F:/data/DeepGlobe Road Extraction Dataset/train/351151
-F:/data/DeepGlobe Road Extraction Dataset/train/951435
-F:/data/DeepGlobe Road Extraction Dataset/train/35917
-F:/data/DeepGlobe Road Extraction Dataset/train/212245
-F:/data/DeepGlobe Road Extraction Dataset/train/511320
-F:/data/DeepGlobe Road Extraction Dataset/train/402303
-F:/data/DeepGlobe Road Extraction Dataset/train/896556
-F:/data/DeepGlobe Road Extraction Dataset/train/301056
-F:/data/DeepGlobe Road Extraction Dataset/train/89241
-F:/data/DeepGlobe Road Extraction Dataset/train/236446
-F:/data/DeepGlobe Road Extraction Dataset/train/15237
-F:/data/DeepGlobe Road Extraction Dataset/train/365725
-F:/data/DeepGlobe Road Extraction Dataset/train/624936
-F:/data/DeepGlobe Road Extraction Dataset/train/971299
-F:/data/DeepGlobe Road Extraction Dataset/train/869031
-F:/data/DeepGlobe Road Extraction Dataset/train/557532
-F:/data/DeepGlobe Road Extraction Dataset/train/293742
-F:/data/DeepGlobe Road Extraction Dataset/train/465492
-F:/data/DeepGlobe Road Extraction Dataset/train/192726
-F:/data/DeepGlobe Road Extraction Dataset/train/437091
-F:/data/DeepGlobe Road Extraction Dataset/train/996972
-F:/data/DeepGlobe Road Extraction Dataset/train/907693
-F:/data/DeepGlobe Road Extraction Dataset/train/176760
-F:/data/DeepGlobe Road Extraction Dataset/train/378778
-F:/data/DeepGlobe Road Extraction Dataset/train/953228
-F:/data/DeepGlobe Road Extraction Dataset/train/734621
-F:/data/DeepGlobe Road Extraction Dataset/train/717919
-F:/data/DeepGlobe Road Extraction Dataset/train/794943
-F:/data/DeepGlobe Road Extraction Dataset/train/873424
-F:/data/DeepGlobe Road Extraction Dataset/train/481211
-F:/data/DeepGlobe Road Extraction Dataset/train/248426
-F:/data/DeepGlobe Road Extraction Dataset/train/493450
-F:/data/DeepGlobe Road Extraction Dataset/train/622199
-F:/data/DeepGlobe Road Extraction Dataset/train/185622
-F:/data/DeepGlobe Road Extraction Dataset/train/500599
-F:/data/DeepGlobe Road Extraction Dataset/train/646979
-F:/data/DeepGlobe Road Extraction Dataset/train/559550
-F:/data/DeepGlobe Road Extraction Dataset/train/833540
-F:/data/DeepGlobe Road Extraction Dataset/train/703054
-F:/data/DeepGlobe Road Extraction Dataset/train/722038
-F:/data/DeepGlobe Road Extraction Dataset/train/718338
-F:/data/DeepGlobe Road Extraction Dataset/train/803993
-F:/data/DeepGlobe Road Extraction Dataset/train/487582
-F:/data/DeepGlobe Road Extraction Dataset/train/378071
-F:/data/DeepGlobe Road Extraction Dataset/train/851053
-F:/data/DeepGlobe Road Extraction Dataset/train/906380
-F:/data/DeepGlobe Road Extraction Dataset/train/461405
-F:/data/DeepGlobe Road Extraction Dataset/train/741728
-F:/data/DeepGlobe Road Extraction Dataset/train/583530
-F:/data/DeepGlobe Road Extraction Dataset/train/220372
-F:/data/DeepGlobe Road Extraction Dataset/train/665500
-F:/data/DeepGlobe Road Extraction Dataset/train/304861
-F:/data/DeepGlobe Road Extraction Dataset/train/700576
-F:/data/DeepGlobe Road Extraction Dataset/train/372803
-F:/data/DeepGlobe Road Extraction Dataset/train/384535
-F:/data/DeepGlobe Road Extraction Dataset/train/571624
-F:/data/DeepGlobe Road Extraction Dataset/train/176017
-F:/data/DeepGlobe Road Extraction Dataset/train/103056
-F:/data/DeepGlobe Road Extraction Dataset/train/785180
-F:/data/DeepGlobe Road Extraction Dataset/train/273731
-F:/data/DeepGlobe Road Extraction Dataset/train/431896
-F:/data/DeepGlobe Road Extraction Dataset/train/789926
-F:/data/DeepGlobe Road Extraction Dataset/train/312663
-F:/data/DeepGlobe Road Extraction Dataset/train/645125
-F:/data/DeepGlobe Road Extraction Dataset/train/31582
-F:/data/DeepGlobe Road Extraction Dataset/train/97627
-F:/data/DeepGlobe Road Extraction Dataset/train/836613
-F:/data/DeepGlobe Road Extraction Dataset/train/109856
-F:/data/DeepGlobe Road Extraction Dataset/train/159882
-F:/data/DeepGlobe Road Extraction Dataset/train/675545
-F:/data/DeepGlobe Road Extraction Dataset/train/486602
-F:/data/DeepGlobe Road Extraction Dataset/train/638100
-F:/data/DeepGlobe Road Extraction Dataset/train/526053
-F:/data/DeepGlobe Road Extraction Dataset/train/592314
-F:/data/DeepGlobe Road Extraction Dataset/train/344565
-F:/data/DeepGlobe Road Extraction Dataset/train/780544
-F:/data/DeepGlobe Road Extraction Dataset/train/55261
-F:/data/DeepGlobe Road Extraction Dataset/train/703102
-F:/data/DeepGlobe Road Extraction Dataset/train/40699
-F:/data/DeepGlobe Road Extraction Dataset/train/603849
-F:/data/DeepGlobe Road Extraction Dataset/train/790590
-F:/data/DeepGlobe Road Extraction Dataset/train/758828
-F:/data/DeepGlobe Road Extraction Dataset/train/999531
-F:/data/DeepGlobe Road Extraction Dataset/train/884955
-F:/data/DeepGlobe Road Extraction Dataset/train/346387
-F:/data/DeepGlobe Road Extraction Dataset/train/575577
-F:/data/DeepGlobe Road Extraction Dataset/train/296546
-F:/data/DeepGlobe Road Extraction Dataset/train/536023
-F:/data/DeepGlobe Road Extraction Dataset/train/164759
-F:/data/DeepGlobe Road Extraction Dataset/train/276604
-F:/data/DeepGlobe Road Extraction Dataset/train/524062
-F:/data/DeepGlobe Road Extraction Dataset/train/761666
-F:/data/DeepGlobe Road Extraction Dataset/train/543812
-F:/data/DeepGlobe Road Extraction Dataset/train/28905
-F:/data/DeepGlobe Road Extraction Dataset/train/303232
-F:/data/DeepGlobe Road Extraction Dataset/train/683201
-F:/data/DeepGlobe Road Extraction Dataset/train/358518
-F:/data/DeepGlobe Road Extraction Dataset/train/67470
-F:/data/DeepGlobe Road Extraction Dataset/train/167220
-F:/data/DeepGlobe Road Extraction Dataset/train/740865
-F:/data/DeepGlobe Road Extraction Dataset/train/967447
-F:/data/DeepGlobe Road Extraction Dataset/train/25459
-F:/data/DeepGlobe Road Extraction Dataset/train/915596
-F:/data/DeepGlobe Road Extraction Dataset/train/832501
-F:/data/DeepGlobe Road Extraction Dataset/train/232446
-F:/data/DeepGlobe Road Extraction Dataset/train/748913
-F:/data/DeepGlobe Road Extraction Dataset/train/387181
-F:/data/DeepGlobe Road Extraction Dataset/train/578692
-F:/data/DeepGlobe Road Extraction Dataset/train/775478
-F:/data/DeepGlobe Road Extraction Dataset/train/153971
-F:/data/DeepGlobe Road Extraction Dataset/train/419437
-F:/data/DeepGlobe Road Extraction Dataset/train/9937
-F:/data/DeepGlobe Road Extraction Dataset/train/843724
-F:/data/DeepGlobe Road Extraction Dataset/train/706141
-F:/data/DeepGlobe Road Extraction Dataset/train/62946
-F:/data/DeepGlobe Road Extraction Dataset/train/285810
-F:/data/DeepGlobe Road Extraction Dataset/train/994363
-F:/data/DeepGlobe Road Extraction Dataset/train/761239
-F:/data/DeepGlobe Road Extraction Dataset/train/893275
-F:/data/DeepGlobe Road Extraction Dataset/train/13870
-F:/data/DeepGlobe Road Extraction Dataset/train/269561
-F:/data/DeepGlobe Road Extraction Dataset/train/929975
-F:/data/DeepGlobe Road Extraction Dataset/train/83827
-F:/data/DeepGlobe Road Extraction Dataset/train/597231
-F:/data/DeepGlobe Road Extraction Dataset/train/661589
-F:/data/DeepGlobe Road Extraction Dataset/train/961336
-F:/data/DeepGlobe Road Extraction Dataset/train/952241
-F:/data/DeepGlobe Road Extraction Dataset/train/293544
-F:/data/DeepGlobe Road Extraction Dataset/train/540983
-F:/data/DeepGlobe Road Extraction Dataset/train/182504
-F:/data/DeepGlobe Road Extraction Dataset/train/202688
-F:/data/DeepGlobe Road Extraction Dataset/train/752601
-F:/data/DeepGlobe Road Extraction Dataset/train/373548
-F:/data/DeepGlobe Road Extraction Dataset/train/141518
-F:/data/DeepGlobe Road Extraction Dataset/train/504545
-F:/data/DeepGlobe Road Extraction Dataset/train/909702
-F:/data/DeepGlobe Road Extraction Dataset/train/18896
-F:/data/DeepGlobe Road Extraction Dataset/train/5947
-F:/data/DeepGlobe Road Extraction Dataset/train/583858
-F:/data/DeepGlobe Road Extraction Dataset/train/527572
-F:/data/DeepGlobe Road Extraction Dataset/train/294813
-F:/data/DeepGlobe Road Extraction Dataset/train/300983
-F:/data/DeepGlobe Road Extraction Dataset/train/105252
-F:/data/DeepGlobe Road Extraction Dataset/train/536089
-F:/data/DeepGlobe Road Extraction Dataset/train/18309
-F:/data/DeepGlobe Road Extraction Dataset/train/842844
-F:/data/DeepGlobe Road Extraction Dataset/train/565207
-F:/data/DeepGlobe Road Extraction Dataset/train/904853
-F:/data/DeepGlobe Road Extraction Dataset/train/783991
-F:/data/DeepGlobe Road Extraction Dataset/train/786248
-F:/data/DeepGlobe Road Extraction Dataset/train/690411
-F:/data/DeepGlobe Road Extraction Dataset/train/508970
-F:/data/DeepGlobe Road Extraction Dataset/train/249627
-F:/data/DeepGlobe Road Extraction Dataset/train/317678
-F:/data/DeepGlobe Road Extraction Dataset/train/735075
-F:/data/DeepGlobe Road Extraction Dataset/train/444094
-F:/data/DeepGlobe Road Extraction Dataset/train/103201
-F:/data/DeepGlobe Road Extraction Dataset/train/467054
-F:/data/DeepGlobe Road Extraction Dataset/train/478077
-F:/data/DeepGlobe Road Extraction Dataset/train/836484
-F:/data/DeepGlobe Road Extraction Dataset/train/639480
-F:/data/DeepGlobe Road Extraction Dataset/train/436982
-F:/data/DeepGlobe Road Extraction Dataset/train/702136
-F:/data/DeepGlobe Road Extraction Dataset/train/690021
-F:/data/DeepGlobe Road Extraction Dataset/train/451370
-F:/data/DeepGlobe Road Extraction Dataset/train/35029
-F:/data/DeepGlobe Road Extraction Dataset/train/816622
-F:/data/DeepGlobe Road Extraction Dataset/train/466415
-F:/data/DeepGlobe Road Extraction Dataset/train/734610
-F:/data/DeepGlobe Road Extraction Dataset/train/925864
-F:/data/DeepGlobe Road Extraction Dataset/train/949499
-F:/data/DeepGlobe Road Extraction Dataset/train/402305
-F:/data/DeepGlobe Road Extraction Dataset/train/289860
-F:/data/DeepGlobe Road Extraction Dataset/train/961236
-F:/data/DeepGlobe Road Extraction Dataset/train/502298
-F:/data/DeepGlobe Road Extraction Dataset/train/295004
-F:/data/DeepGlobe Road Extraction Dataset/train/361334
-F:/data/DeepGlobe Road Extraction Dataset/train/906049
-F:/data/DeepGlobe Road Extraction Dataset/train/714700
-F:/data/DeepGlobe Road Extraction Dataset/train/964793
-F:/data/DeepGlobe Road Extraction Dataset/train/887849
-F:/data/DeepGlobe Road Extraction Dataset/train/795731
-F:/data/DeepGlobe Road Extraction Dataset/train/393063
-F:/data/DeepGlobe Road Extraction Dataset/train/907388
-F:/data/DeepGlobe Road Extraction Dataset/train/299115
-F:/data/DeepGlobe Road Extraction Dataset/train/354691
-F:/data/DeepGlobe Road Extraction Dataset/train/143105
-F:/data/DeepGlobe Road Extraction Dataset/train/299484
-F:/data/DeepGlobe Road Extraction Dataset/train/585197
-F:/data/DeepGlobe Road Extraction Dataset/train/359554
-F:/data/DeepGlobe Road Extraction Dataset/train/127416
-F:/data/DeepGlobe Road Extraction Dataset/train/561049
-F:/data/DeepGlobe Road Extraction Dataset/train/234132
-F:/data/DeepGlobe Road Extraction Dataset/train/413810
-F:/data/DeepGlobe Road Extraction Dataset/train/322536
-F:/data/DeepGlobe Road Extraction Dataset/train/421362
-F:/data/DeepGlobe Road Extraction Dataset/train/825538
-F:/data/DeepGlobe Road Extraction Dataset/train/15833
-F:/data/DeepGlobe Road Extraction Dataset/train/226994
-F:/data/DeepGlobe Road Extraction Dataset/train/606543
-F:/data/DeepGlobe Road Extraction Dataset/train/469319
-F:/data/DeepGlobe Road Extraction Dataset/train/201338
-F:/data/DeepGlobe Road Extraction Dataset/train/613916
-F:/data/DeepGlobe Road Extraction Dataset/train/882906
-F:/data/DeepGlobe Road Extraction Dataset/train/478332
-F:/data/DeepGlobe Road Extraction Dataset/train/5523
-F:/data/DeepGlobe Road Extraction Dataset/train/263910
-F:/data/DeepGlobe Road Extraction Dataset/train/200716
-F:/data/DeepGlobe Road Extraction Dataset/train/223890
-F:/data/DeepGlobe Road Extraction Dataset/train/172430
-F:/data/DeepGlobe Road Extraction Dataset/train/323729
-F:/data/DeepGlobe Road Extraction Dataset/train/227114
-F:/data/DeepGlobe Road Extraction Dataset/train/295135
-F:/data/DeepGlobe Road Extraction Dataset/train/892762
-F:/data/DeepGlobe Road Extraction Dataset/train/69637
-F:/data/DeepGlobe Road Extraction Dataset/train/652793
-F:/data/DeepGlobe Road Extraction Dataset/train/487358
-F:/data/DeepGlobe Road Extraction Dataset/train/567147
-F:/data/DeepGlobe Road Extraction Dataset/train/820820
-F:/data/DeepGlobe Road Extraction Dataset/train/662246
-F:/data/DeepGlobe Road Extraction Dataset/train/435242
-F:/data/DeepGlobe Road Extraction Dataset/train/773427
-F:/data/DeepGlobe Road Extraction Dataset/train/55826
-F:/data/DeepGlobe Road Extraction Dataset/train/937489
-F:/data/DeepGlobe Road Extraction Dataset/train/665729
-F:/data/DeepGlobe Road Extraction Dataset/train/117283
-F:/data/DeepGlobe Road Extraction Dataset/train/118164
-F:/data/DeepGlobe Road Extraction Dataset/train/583970
-F:/data/DeepGlobe Road Extraction Dataset/train/354477
-F:/data/DeepGlobe Road Extraction Dataset/train/462303
-F:/data/DeepGlobe Road Extraction Dataset/train/169237
-F:/data/DeepGlobe Road Extraction Dataset/train/922867
-F:/data/DeepGlobe Road Extraction Dataset/train/125885
-F:/data/DeepGlobe Road Extraction Dataset/train/860545
-F:/data/DeepGlobe Road Extraction Dataset/train/826412
-F:/data/DeepGlobe Road Extraction Dataset/train/718185
-F:/data/DeepGlobe Road Extraction Dataset/train/953175
-F:/data/DeepGlobe Road Extraction Dataset/train/315179
-F:/data/DeepGlobe Road Extraction Dataset/train/408455
-F:/data/DeepGlobe Road Extraction Dataset/train/759537
-F:/data/DeepGlobe Road Extraction Dataset/train/3602
-F:/data/DeepGlobe Road Extraction Dataset/train/899805
-F:/data/DeepGlobe Road Extraction Dataset/train/992343
-F:/data/DeepGlobe Road Extraction Dataset/train/97748
-F:/data/DeepGlobe Road Extraction Dataset/train/853676
-F:/data/DeepGlobe Road Extraction Dataset/train/297152
-F:/data/DeepGlobe Road Extraction Dataset/train/812751
-F:/data/DeepGlobe Road Extraction Dataset/train/512863
-F:/data/DeepGlobe Road Extraction Dataset/train/801036
-F:/data/DeepGlobe Road Extraction Dataset/train/189431
-F:/data/DeepGlobe Road Extraction Dataset/train/755362
-F:/data/DeepGlobe Road Extraction Dataset/train/38093
-F:/data/DeepGlobe Road Extraction Dataset/train/354829
-F:/data/DeepGlobe Road Extraction Dataset/train/653030
-F:/data/DeepGlobe Road Extraction Dataset/train/475934
-F:/data/DeepGlobe Road Extraction Dataset/train/825933
-F:/data/DeepGlobe Road Extraction Dataset/train/427715
-F:/data/DeepGlobe Road Extraction Dataset/train/466541
-F:/data/DeepGlobe Road Extraction Dataset/train/480057
-F:/data/DeepGlobe Road Extraction Dataset/train/840536
-F:/data/DeepGlobe Road Extraction Dataset/train/220961
-F:/data/DeepGlobe Road Extraction Dataset/train/830342
-F:/data/DeepGlobe Road Extraction Dataset/train/476486
-F:/data/DeepGlobe Road Extraction Dataset/train/883839
-F:/data/DeepGlobe Road Extraction Dataset/train/928443
-F:/data/DeepGlobe Road Extraction Dataset/train/442708
-F:/data/DeepGlobe Road Extraction Dataset/train/753907
-F:/data/DeepGlobe Road Extraction Dataset/train/49977
-F:/data/DeepGlobe Road Extraction Dataset/train/309959
-F:/data/DeepGlobe Road Extraction Dataset/train/344261
-F:/data/DeepGlobe Road Extraction Dataset/train/825309
-F:/data/DeepGlobe Road Extraction Dataset/train/711758
-F:/data/DeepGlobe Road Extraction Dataset/train/847602
-F:/data/DeepGlobe Road Extraction Dataset/train/360726
-F:/data/DeepGlobe Road Extraction Dataset/train/44974
-F:/data/DeepGlobe Road Extraction Dataset/train/631211
-F:/data/DeepGlobe Road Extraction Dataset/train/73857
-F:/data/DeepGlobe Road Extraction Dataset/train/621010
-F:/data/DeepGlobe Road Extraction Dataset/train/31578
-F:/data/DeepGlobe Road Extraction Dataset/train/609667
-F:/data/DeepGlobe Road Extraction Dataset/train/27363
-F:/data/DeepGlobe Road Extraction Dataset/train/906484
-F:/data/DeepGlobe Road Extraction Dataset/train/149988
-F:/data/DeepGlobe Road Extraction Dataset/train/411554
-F:/data/DeepGlobe Road Extraction Dataset/train/614957
-F:/data/DeepGlobe Road Extraction Dataset/train/173654
-F:/data/DeepGlobe Road Extraction Dataset/train/73185
-F:/data/DeepGlobe Road Extraction Dataset/train/99639
-F:/data/DeepGlobe Road Extraction Dataset/train/159040
-F:/data/DeepGlobe Road Extraction Dataset/train/950856
-F:/data/DeepGlobe Road Extraction Dataset/train/248659
-F:/data/DeepGlobe Road Extraction Dataset/train/341469
-F:/data/DeepGlobe Road Extraction Dataset/train/630092
-F:/data/DeepGlobe Road Extraction Dataset/train/98225
-F:/data/DeepGlobe Road Extraction Dataset/train/953426
-F:/data/DeepGlobe Road Extraction Dataset/train/480527
-F:/data/DeepGlobe Road Extraction Dataset/train/656960
-F:/data/DeepGlobe Road Extraction Dataset/train/696096
-F:/data/DeepGlobe Road Extraction Dataset/train/562586
-F:/data/DeepGlobe Road Extraction Dataset/train/533738
-F:/data/DeepGlobe Road Extraction Dataset/train/240062
-F:/data/DeepGlobe Road Extraction Dataset/train/620264
-F:/data/DeepGlobe Road Extraction Dataset/train/629477
-F:/data/DeepGlobe Road Extraction Dataset/train/712648
-F:/data/DeepGlobe Road Extraction Dataset/train/21327
-F:/data/DeepGlobe Road Extraction Dataset/train/294701
-F:/data/DeepGlobe Road Extraction Dataset/train/216686
-F:/data/DeepGlobe Road Extraction Dataset/train/652681
-F:/data/DeepGlobe Road Extraction Dataset/train/90099
-F:/data/DeepGlobe Road Extraction Dataset/train/955344
-F:/data/DeepGlobe Road Extraction Dataset/train/290907
-F:/data/DeepGlobe Road Extraction Dataset/train/340502
-F:/data/DeepGlobe Road Extraction Dataset/train/757146
-F:/data/DeepGlobe Road Extraction Dataset/train/354791
-F:/data/DeepGlobe Road Extraction Dataset/train/705360
-F:/data/DeepGlobe Road Extraction Dataset/train/464064
-F:/data/DeepGlobe Road Extraction Dataset/train/224082
-F:/data/DeepGlobe Road Extraction Dataset/train/186312
-F:/data/DeepGlobe Road Extraction Dataset/train/627243
-F:/data/DeepGlobe Road Extraction Dataset/train/885796
-F:/data/DeepGlobe Road Extraction Dataset/train/343062
-F:/data/DeepGlobe Road Extraction Dataset/train/544660
-F:/data/DeepGlobe Road Extraction Dataset/train/201182
-F:/data/DeepGlobe Road Extraction Dataset/train/592427
-F:/data/DeepGlobe Road Extraction Dataset/train/133797
-F:/data/DeepGlobe Road Extraction Dataset/train/425471
-F:/data/DeepGlobe Road Extraction Dataset/train/461832
-F:/data/DeepGlobe Road Extraction Dataset/train/421122
-F:/data/DeepGlobe Road Extraction Dataset/train/143345
-F:/data/DeepGlobe Road Extraction Dataset/train/528005
-F:/data/DeepGlobe Road Extraction Dataset/train/242904
-F:/data/DeepGlobe Road Extraction Dataset/train/646522
-F:/data/DeepGlobe Road Extraction Dataset/train/709593
-F:/data/DeepGlobe Road Extraction Dataset/train/191119
-F:/data/DeepGlobe Road Extraction Dataset/train/550136
-F:/data/DeepGlobe Road Extraction Dataset/train/857277
-F:/data/DeepGlobe Road Extraction Dataset/train/723436
-F:/data/DeepGlobe Road Extraction Dataset/train/472410
-F:/data/DeepGlobe Road Extraction Dataset/train/433384
-F:/data/DeepGlobe Road Extraction Dataset/train/159698
-F:/data/DeepGlobe Road Extraction Dataset/train/738813
-F:/data/DeepGlobe Road Extraction Dataset/train/75561
-F:/data/DeepGlobe Road Extraction Dataset/train/113252
-F:/data/DeepGlobe Road Extraction Dataset/train/584026
-F:/data/DeepGlobe Road Extraction Dataset/train/975274
-F:/data/DeepGlobe Road Extraction Dataset/train/437233
-F:/data/DeepGlobe Road Extraction Dataset/train/753390
-F:/data/DeepGlobe Road Extraction Dataset/train/258318
-F:/data/DeepGlobe Road Extraction Dataset/train/211872
-F:/data/DeepGlobe Road Extraction Dataset/train/341612
-F:/data/DeepGlobe Road Extraction Dataset/train/743450
-F:/data/DeepGlobe Road Extraction Dataset/train/422010
-F:/data/DeepGlobe Road Extraction Dataset/train/508910
-F:/data/DeepGlobe Road Extraction Dataset/train/142436
-F:/data/DeepGlobe Road Extraction Dataset/train/913696
-F:/data/DeepGlobe Road Extraction Dataset/train/18570
-F:/data/DeepGlobe Road Extraction Dataset/train/755069
-F:/data/DeepGlobe Road Extraction Dataset/train/456118
-F:/data/DeepGlobe Road Extraction Dataset/train/266047
-F:/data/DeepGlobe Road Extraction Dataset/train/315262
-F:/data/DeepGlobe Road Extraction Dataset/train/951
-F:/data/DeepGlobe Road Extraction Dataset/train/458825
-F:/data/DeepGlobe Road Extraction Dataset/train/375799
-F:/data/DeepGlobe Road Extraction Dataset/train/349767
-F:/data/DeepGlobe Road Extraction Dataset/train/226665
-F:/data/DeepGlobe Road Extraction Dataset/train/334513
-F:/data/DeepGlobe Road Extraction Dataset/train/351590
-F:/data/DeepGlobe Road Extraction Dataset/train/180197
-F:/data/DeepGlobe Road Extraction Dataset/train/894555
-F:/data/DeepGlobe Road Extraction Dataset/train/610614
-F:/data/DeepGlobe Road Extraction Dataset/train/124319
-F:/data/DeepGlobe Road Extraction Dataset/train/47144
-F:/data/DeepGlobe Road Extraction Dataset/train/420996
-F:/data/DeepGlobe Road Extraction Dataset/train/657230
-F:/data/DeepGlobe Road Extraction Dataset/train/716115
-F:/data/DeepGlobe Road Extraction Dataset/train/287479
-F:/data/DeepGlobe Road Extraction Dataset/train/840823
-F:/data/DeepGlobe Road Extraction Dataset/train/273679
-F:/data/DeepGlobe Road Extraction Dataset/train/429369
-F:/data/DeepGlobe Road Extraction Dataset/train/282949
-F:/data/DeepGlobe Road Extraction Dataset/train/421746
-F:/data/DeepGlobe Road Extraction Dataset/train/847286
-F:/data/DeepGlobe Road Extraction Dataset/train/283581
-F:/data/DeepGlobe Road Extraction Dataset/train/169837
-F:/data/DeepGlobe Road Extraction Dataset/train/834703
-F:/data/DeepGlobe Road Extraction Dataset/train/381926
-F:/data/DeepGlobe Road Extraction Dataset/train/599864
-F:/data/DeepGlobe Road Extraction Dataset/train/658626
-F:/data/DeepGlobe Road Extraction Dataset/train/534629
-F:/data/DeepGlobe Road Extraction Dataset/train/17989
-F:/data/DeepGlobe Road Extraction Dataset/train/474132
-F:/data/DeepGlobe Road Extraction Dataset/train/365134
-F:/data/DeepGlobe Road Extraction Dataset/train/473645
-F:/data/DeepGlobe Road Extraction Dataset/train/653990
-F:/data/DeepGlobe Road Extraction Dataset/train/990503
-F:/data/DeepGlobe Road Extraction Dataset/train/249992
-F:/data/DeepGlobe Road Extraction Dataset/train/605592
-F:/data/DeepGlobe Road Extraction Dataset/train/208309
-F:/data/DeepGlobe Road Extraction Dataset/train/830740
-F:/data/DeepGlobe Road Extraction Dataset/train/59797
-F:/data/DeepGlobe Road Extraction Dataset/train/570197
-F:/data/DeepGlobe Road Extraction Dataset/train/400466
-F:/data/DeepGlobe Road Extraction Dataset/train/783818
-F:/data/DeepGlobe Road Extraction Dataset/train/739225
-F:/data/DeepGlobe Road Extraction Dataset/train/598497
-F:/data/DeepGlobe Road Extraction Dataset/train/531276
-F:/data/DeepGlobe Road Extraction Dataset/train/250177
-F:/data/DeepGlobe Road Extraction Dataset/train/159264
-F:/data/DeepGlobe Road Extraction Dataset/train/777018
-F:/data/DeepGlobe Road Extraction Dataset/train/475480
-F:/data/DeepGlobe Road Extraction Dataset/train/582270
-F:/data/DeepGlobe Road Extraction Dataset/train/445545
-F:/data/DeepGlobe Road Extraction Dataset/train/561896
-F:/data/DeepGlobe Road Extraction Dataset/train/144350
-F:/data/DeepGlobe Road Extraction Dataset/train/946810
-F:/data/DeepGlobe Road Extraction Dataset/train/700753
-F:/data/DeepGlobe Road Extraction Dataset/train/132983
-F:/data/DeepGlobe Road Extraction Dataset/train/821625
-F:/data/DeepGlobe Road Extraction Dataset/train/96399
-F:/data/DeepGlobe Road Extraction Dataset/train/942422
-F:/data/DeepGlobe Road Extraction Dataset/train/743645
-F:/data/DeepGlobe Road Extraction Dataset/train/357382
-F:/data/DeepGlobe Road Extraction Dataset/train/166605
-F:/data/DeepGlobe Road Extraction Dataset/train/179541
-F:/data/DeepGlobe Road Extraction Dataset/train/464129
-F:/data/DeepGlobe Road Extraction Dataset/train/386323
-F:/data/DeepGlobe Road Extraction Dataset/train/489036
-F:/data/DeepGlobe Road Extraction Dataset/train/725014
-F:/data/DeepGlobe Road Extraction Dataset/train/353807
-F:/data/DeepGlobe Road Extraction Dataset/train/317292
-F:/data/DeepGlobe Road Extraction Dataset/train/98477
-F:/data/DeepGlobe Road Extraction Dataset/train/321997
-F:/data/DeepGlobe Road Extraction Dataset/train/727773
-F:/data/DeepGlobe Road Extraction Dataset/train/60774
-F:/data/DeepGlobe Road Extraction Dataset/train/124277
-F:/data/DeepGlobe Road Extraction Dataset/train/37493
-F:/data/DeepGlobe Road Extraction Dataset/train/884532
-F:/data/DeepGlobe Road Extraction Dataset/train/460609
-F:/data/DeepGlobe Road Extraction Dataset/train/558937
-F:/data/DeepGlobe Road Extraction Dataset/train/462068
-F:/data/DeepGlobe Road Extraction Dataset/train/83520
-F:/data/DeepGlobe Road Extraction Dataset/train/636333
-F:/data/DeepGlobe Road Extraction Dataset/train/279283
-F:/data/DeepGlobe Road Extraction Dataset/train/541703
-F:/data/DeepGlobe Road Extraction Dataset/train/216831
-F:/data/DeepGlobe Road Extraction Dataset/train/393166
-F:/data/DeepGlobe Road Extraction Dataset/train/638829
-F:/data/DeepGlobe Road Extraction Dataset/train/551940
-F:/data/DeepGlobe Road Extraction Dataset/train/260046
-F:/data/DeepGlobe Road Extraction Dataset/train/417273
-F:/data/DeepGlobe Road Extraction Dataset/train/290194
-F:/data/DeepGlobe Road Extraction Dataset/train/121860
-F:/data/DeepGlobe Road Extraction Dataset/train/753614
-F:/data/DeepGlobe Road Extraction Dataset/train/314129
-F:/data/DeepGlobe Road Extraction Dataset/train/434989
-F:/data/DeepGlobe Road Extraction Dataset/train/780044
-F:/data/DeepGlobe Road Extraction Dataset/train/524240
-F:/data/DeepGlobe Road Extraction Dataset/train/596771
-F:/data/DeepGlobe Road Extraction Dataset/train/898161
-F:/data/DeepGlobe Road Extraction Dataset/train/595090
-F:/data/DeepGlobe Road Extraction Dataset/train/107412
-F:/data/DeepGlobe Road Extraction Dataset/train/589954
-F:/data/DeepGlobe Road Extraction Dataset/train/360450
-F:/data/DeepGlobe Road Extraction Dataset/train/31278
-F:/data/DeepGlobe Road Extraction Dataset/train/202536
-F:/data/DeepGlobe Road Extraction Dataset/train/458727
-F:/data/DeepGlobe Road Extraction Dataset/train/892484
-F:/data/DeepGlobe Road Extraction Dataset/train/186840
-F:/data/DeepGlobe Road Extraction Dataset/train/563569
-F:/data/DeepGlobe Road Extraction Dataset/train/325090
-F:/data/DeepGlobe Road Extraction Dataset/train/737508
-F:/data/DeepGlobe Road Extraction Dataset/train/185121
-F:/data/DeepGlobe Road Extraction Dataset/train/831265
-F:/data/DeepGlobe Road Extraction Dataset/train/185245
-F:/data/DeepGlobe Road Extraction Dataset/train/296505
-F:/data/DeepGlobe Road Extraction Dataset/train/793762
-F:/data/DeepGlobe Road Extraction Dataset/train/620308
-F:/data/DeepGlobe Road Extraction Dataset/train/829413
-F:/data/DeepGlobe Road Extraction Dataset/train/298351
-F:/data/DeepGlobe Road Extraction Dataset/train/519458
-F:/data/DeepGlobe Road Extraction Dataset/train/457512
-F:/data/DeepGlobe Road Extraction Dataset/train/688388
-F:/data/DeepGlobe Road Extraction Dataset/train/261906
-F:/data/DeepGlobe Road Extraction Dataset/train/745107
-F:/data/DeepGlobe Road Extraction Dataset/train/571802
-F:/data/DeepGlobe Road Extraction Dataset/train/946035
-F:/data/DeepGlobe Road Extraction Dataset/train/769960
-F:/data/DeepGlobe Road Extraction Dataset/train/725249
-F:/data/DeepGlobe Road Extraction Dataset/train/721436
-F:/data/DeepGlobe Road Extraction Dataset/train/522498
-F:/data/DeepGlobe Road Extraction Dataset/train/60696
-F:/data/DeepGlobe Road Extraction Dataset/train/171963
-F:/data/DeepGlobe Road Extraction Dataset/train/167806
-F:/data/DeepGlobe Road Extraction Dataset/train/576302
-F:/data/DeepGlobe Road Extraction Dataset/train/384422
-F:/data/DeepGlobe Road Extraction Dataset/train/140927
-F:/data/DeepGlobe Road Extraction Dataset/train/824276
-F:/data/DeepGlobe Road Extraction Dataset/train/154170
-F:/data/DeepGlobe Road Extraction Dataset/train/630417
-F:/data/DeepGlobe Road Extraction Dataset/train/558336
-F:/data/DeepGlobe Road Extraction Dataset/train/953495
-F:/data/DeepGlobe Road Extraction Dataset/train/411674
-F:/data/DeepGlobe Road Extraction Dataset/train/821399
-F:/data/DeepGlobe Road Extraction Dataset/train/941665
-F:/data/DeepGlobe Road Extraction Dataset/train/548550
-F:/data/DeepGlobe Road Extraction Dataset/train/351913
-F:/data/DeepGlobe Road Extraction Dataset/train/53065
-F:/data/DeepGlobe Road Extraction Dataset/train/486861
-F:/data/DeepGlobe Road Extraction Dataset/train/153265
-F:/data/DeepGlobe Road Extraction Dataset/train/281355
-F:/data/DeepGlobe Road Extraction Dataset/train/614158
-F:/data/DeepGlobe Road Extraction Dataset/train/607242
-F:/data/DeepGlobe Road Extraction Dataset/train/882937
-F:/data/DeepGlobe Road Extraction Dataset/train/442830
-F:/data/DeepGlobe Road Extraction Dataset/train/529643
-F:/data/DeepGlobe Road Extraction Dataset/train/688218
-F:/data/DeepGlobe Road Extraction Dataset/train/152497
-F:/data/DeepGlobe Road Extraction Dataset/train/565112
-F:/data/DeepGlobe Road Extraction Dataset/train/826258
-F:/data/DeepGlobe Road Extraction Dataset/train/725115
-F:/data/DeepGlobe Road Extraction Dataset/train/24272
-F:/data/DeepGlobe Road Extraction Dataset/train/251273
-F:/data/DeepGlobe Road Extraction Dataset/train/776759
-F:/data/DeepGlobe Road Extraction Dataset/train/605229
-F:/data/DeepGlobe Road Extraction Dataset/train/444795
-F:/data/DeepGlobe Road Extraction Dataset/train/330562
-F:/data/DeepGlobe Road Extraction Dataset/train/99884
-F:/data/DeepGlobe Road Extraction Dataset/train/805815
-F:/data/DeepGlobe Road Extraction Dataset/train/885320
-F:/data/DeepGlobe Road Extraction Dataset/train/186076
-F:/data/DeepGlobe Road Extraction Dataset/train/859461
-F:/data/DeepGlobe Road Extraction Dataset/train/210173
-F:/data/DeepGlobe Road Extraction Dataset/train/472623
-F:/data/DeepGlobe Road Extraction Dataset/train/352622
-F:/data/DeepGlobe Road Extraction Dataset/train/476874
-F:/data/DeepGlobe Road Extraction Dataset/train/941094
-F:/data/DeepGlobe Road Extraction Dataset/train/474767
-F:/data/DeepGlobe Road Extraction Dataset/train/909630
-F:/data/DeepGlobe Road Extraction Dataset/train/839007
-F:/data/DeepGlobe Road Extraction Dataset/train/445366
-F:/data/DeepGlobe Road Extraction Dataset/train/483919
-F:/data/DeepGlobe Road Extraction Dataset/train/860297
-F:/data/DeepGlobe Road Extraction Dataset/train/930950
-F:/data/DeepGlobe Road Extraction Dataset/train/608001
-F:/data/DeepGlobe Road Extraction Dataset/train/889079
-F:/data/DeepGlobe Road Extraction Dataset/train/178158
-F:/data/DeepGlobe Road Extraction Dataset/train/338671
-F:/data/DeepGlobe Road Extraction Dataset/train/33463
-F:/data/DeepGlobe Road Extraction Dataset/train/655957
-F:/data/DeepGlobe Road Extraction Dataset/train/222405
-F:/data/DeepGlobe Road Extraction Dataset/train/604143
-F:/data/DeepGlobe Road Extraction Dataset/train/94623
-F:/data/DeepGlobe Road Extraction Dataset/train/365973
-F:/data/DeepGlobe Road Extraction Dataset/train/978104
-F:/data/DeepGlobe Road Extraction Dataset/train/203308
-F:/data/DeepGlobe Road Extraction Dataset/train/613639
-F:/data/DeepGlobe Road Extraction Dataset/train/690443
-F:/data/DeepGlobe Road Extraction Dataset/train/957367
-F:/data/DeepGlobe Road Extraction Dataset/train/146735
-F:/data/DeepGlobe Road Extraction Dataset/train/907221
-F:/data/DeepGlobe Road Extraction Dataset/train/18640
-F:/data/DeepGlobe Road Extraction Dataset/train/713612
-F:/data/DeepGlobe Road Extraction Dataset/train/646682
-F:/data/DeepGlobe Road Extraction Dataset/train/574420
-F:/data/DeepGlobe Road Extraction Dataset/train/364744
-F:/data/DeepGlobe Road Extraction Dataset/train/352363
-F:/data/DeepGlobe Road Extraction Dataset/train/537862
-F:/data/DeepGlobe Road Extraction Dataset/train/487618
-F:/data/DeepGlobe Road Extraction Dataset/train/241269
-F:/data/DeepGlobe Road Extraction Dataset/train/631271
-F:/data/DeepGlobe Road Extraction Dataset/train/135183
-F:/data/DeepGlobe Road Extraction Dataset/train/59251
-F:/data/DeepGlobe Road Extraction Dataset/train/256264
-F:/data/DeepGlobe Road Extraction Dataset/train/927175
-F:/data/DeepGlobe Road Extraction Dataset/train/974773
-F:/data/DeepGlobe Road Extraction Dataset/train/594066
-F:/data/DeepGlobe Road Extraction Dataset/train/255324
-F:/data/DeepGlobe Road Extraction Dataset/train/671552
-F:/data/DeepGlobe Road Extraction Dataset/train/385402
-F:/data/DeepGlobe Road Extraction Dataset/train/757829
-F:/data/DeepGlobe Road Extraction Dataset/train/268074
-F:/data/DeepGlobe Road Extraction Dataset/train/984438
-F:/data/DeepGlobe Road Extraction Dataset/train/718920
-F:/data/DeepGlobe Road Extraction Dataset/train/95573
-F:/data/DeepGlobe Road Extraction Dataset/train/334723
-F:/data/DeepGlobe Road Extraction Dataset/train/391190
-F:/data/DeepGlobe Road Extraction Dataset/train/197549
-F:/data/DeepGlobe Road Extraction Dataset/train/564885
-F:/data/DeepGlobe Road Extraction Dataset/train/393111
-F:/data/DeepGlobe Road Extraction Dataset/train/989146
-F:/data/DeepGlobe Road Extraction Dataset/train/983884
-F:/data/DeepGlobe Road Extraction Dataset/train/282956
-F:/data/DeepGlobe Road Extraction Dataset/train/749627
-F:/data/DeepGlobe Road Extraction Dataset/train/150479
-F:/data/DeepGlobe Road Extraction Dataset/train/299142
-F:/data/DeepGlobe Road Extraction Dataset/train/136313
-F:/data/DeepGlobe Road Extraction Dataset/train/256081
-F:/data/DeepGlobe Road Extraction Dataset/train/128455
-F:/data/DeepGlobe Road Extraction Dataset/train/585134
-F:/data/DeepGlobe Road Extraction Dataset/train/541097
-F:/data/DeepGlobe Road Extraction Dataset/train/514166
-F:/data/DeepGlobe Road Extraction Dataset/train/210314
-F:/data/DeepGlobe Road Extraction Dataset/train/508418
-F:/data/DeepGlobe Road Extraction Dataset/train/934673
-F:/data/DeepGlobe Road Extraction Dataset/train/212679
-F:/data/DeepGlobe Road Extraction Dataset/train/163227
-F:/data/DeepGlobe Road Extraction Dataset/train/45299
-F:/data/DeepGlobe Road Extraction Dataset/train/864365
-F:/data/DeepGlobe Road Extraction Dataset/train/991373
-F:/data/DeepGlobe Road Extraction Dataset/train/255439
-F:/data/DeepGlobe Road Extraction Dataset/train/858289
-F:/data/DeepGlobe Road Extraction Dataset/train/586422
-F:/data/DeepGlobe Road Extraction Dataset/train/949841
-F:/data/DeepGlobe Road Extraction Dataset/train/802401
-F:/data/DeepGlobe Road Extraction Dataset/train/279193
-F:/data/DeepGlobe Road Extraction Dataset/train/200296
-F:/data/DeepGlobe Road Extraction Dataset/train/473388
-F:/data/DeepGlobe Road Extraction Dataset/train/232316
-F:/data/DeepGlobe Road Extraction Dataset/train/358017
-F:/data/DeepGlobe Road Extraction Dataset/train/303190
-F:/data/DeepGlobe Road Extraction Dataset/train/518159
-F:/data/DeepGlobe Road Extraction Dataset/train/652680
-F:/data/DeepGlobe Road Extraction Dataset/train/815168
-F:/data/DeepGlobe Road Extraction Dataset/train/297868
-F:/data/DeepGlobe Road Extraction Dataset/train/8078
-F:/data/DeepGlobe Road Extraction Dataset/train/569971
-F:/data/DeepGlobe Road Extraction Dataset/train/615723
-F:/data/DeepGlobe Road Extraction Dataset/train/897784
-F:/data/DeepGlobe Road Extraction Dataset/train/480408
-F:/data/DeepGlobe Road Extraction Dataset/train/302663
-F:/data/DeepGlobe Road Extraction Dataset/train/299051
-F:/data/DeepGlobe Road Extraction Dataset/train/753384
-F:/data/DeepGlobe Road Extraction Dataset/train/662620
-F:/data/DeepGlobe Road Extraction Dataset/train/722817
-F:/data/DeepGlobe Road Extraction Dataset/train/39878
-F:/data/DeepGlobe Road Extraction Dataset/train/502993
-F:/data/DeepGlobe Road Extraction Dataset/train/639198
-F:/data/DeepGlobe Road Extraction Dataset/train/979812
-F:/data/DeepGlobe Road Extraction Dataset/train/425305
-F:/data/DeepGlobe Road Extraction Dataset/train/974637
-F:/data/DeepGlobe Road Extraction Dataset/train/893273
-F:/data/DeepGlobe Road Extraction Dataset/train/122555
-F:/data/DeepGlobe Road Extraction Dataset/train/862470
-F:/data/DeepGlobe Road Extraction Dataset/train/732310
-F:/data/DeepGlobe Road Extraction Dataset/train/800933
-F:/data/DeepGlobe Road Extraction Dataset/train/503492
-F:/data/DeepGlobe Road Extraction Dataset/train/665540
-F:/data/DeepGlobe Road Extraction Dataset/train/974158
-F:/data/DeepGlobe Road Extraction Dataset/train/622953
-F:/data/DeepGlobe Road Extraction Dataset/train/625386
-F:/data/DeepGlobe Road Extraction Dataset/train/735376
-F:/data/DeepGlobe Road Extraction Dataset/train/146345
-F:/data/DeepGlobe Road Extraction Dataset/train/659638
-F:/data/DeepGlobe Road Extraction Dataset/train/939841
-F:/data/DeepGlobe Road Extraction Dataset/train/844707
-F:/data/DeepGlobe Road Extraction Dataset/train/100712
-F:/data/DeepGlobe Road Extraction Dataset/train/118430
-F:/data/DeepGlobe Road Extraction Dataset/train/469451
-F:/data/DeepGlobe Road Extraction Dataset/train/68561
-F:/data/DeepGlobe Road Extraction Dataset/train/703903
-F:/data/DeepGlobe Road Extraction Dataset/train/786302
-F:/data/DeepGlobe Road Extraction Dataset/train/956979
-F:/data/DeepGlobe Road Extraction Dataset/train/630236
-F:/data/DeepGlobe Road Extraction Dataset/train/802758
-F:/data/DeepGlobe Road Extraction Dataset/train/32501
-F:/data/DeepGlobe Road Extraction Dataset/train/794521
-F:/data/DeepGlobe Road Extraction Dataset/train/26895
-F:/data/DeepGlobe Road Extraction Dataset/train/212070
-F:/data/DeepGlobe Road Extraction Dataset/train/629812
-F:/data/DeepGlobe Road Extraction Dataset/train/853055
-F:/data/DeepGlobe Road Extraction Dataset/train/41376
-F:/data/DeepGlobe Road Extraction Dataset/train/141378
-F:/data/DeepGlobe Road Extraction Dataset/train/149841
-F:/data/DeepGlobe Road Extraction Dataset/train/354633
-F:/data/DeepGlobe Road Extraction Dataset/train/101225
-F:/data/DeepGlobe Road Extraction Dataset/train/341131
-F:/data/DeepGlobe Road Extraction Dataset/train/889379
-F:/data/DeepGlobe Road Extraction Dataset/train/641221
-F:/data/DeepGlobe Road Extraction Dataset/train/897281
-F:/data/DeepGlobe Road Extraction Dataset/train/418944
-F:/data/DeepGlobe Road Extraction Dataset/train/989398
-F:/data/DeepGlobe Road Extraction Dataset/train/959424
-F:/data/DeepGlobe Road Extraction Dataset/train/642169
-F:/data/DeepGlobe Road Extraction Dataset/train/880871
-F:/data/DeepGlobe Road Extraction Dataset/train/649408
-F:/data/DeepGlobe Road Extraction Dataset/train/515241
-F:/data/DeepGlobe Road Extraction Dataset/train/575268
-F:/data/DeepGlobe Road Extraction Dataset/train/887195
-F:/data/DeepGlobe Road Extraction Dataset/train/318030
-F:/data/DeepGlobe Road Extraction Dataset/train/39045
-F:/data/DeepGlobe Road Extraction Dataset/train/973063
-F:/data/DeepGlobe Road Extraction Dataset/train/546104
-F:/data/DeepGlobe Road Extraction Dataset/train/590465
-F:/data/DeepGlobe Road Extraction Dataset/train/317060
-F:/data/DeepGlobe Road Extraction Dataset/train/484650
-F:/data/DeepGlobe Road Extraction Dataset/train/308581
-F:/data/DeepGlobe Road Extraction Dataset/train/443894
-F:/data/DeepGlobe Road Extraction Dataset/train/229952
-F:/data/DeepGlobe Road Extraction Dataset/train/370328
-F:/data/DeepGlobe Road Extraction Dataset/train/250816
-F:/data/DeepGlobe Road Extraction Dataset/train/852056
-F:/data/DeepGlobe Road Extraction Dataset/train/286300
-F:/data/DeepGlobe Road Extraction Dataset/train/927396
-F:/data/DeepGlobe Road Extraction Dataset/train/633675
-F:/data/DeepGlobe Road Extraction Dataset/train/872391
-F:/data/DeepGlobe Road Extraction Dataset/train/234632
-F:/data/DeepGlobe Road Extraction Dataset/train/219560
-F:/data/DeepGlobe Road Extraction Dataset/train/385965
-F:/data/DeepGlobe Road Extraction Dataset/train/576818
-F:/data/DeepGlobe Road Extraction Dataset/train/270299
-F:/data/DeepGlobe Road Extraction Dataset/train/441130
-F:/data/DeepGlobe Road Extraction Dataset/train/650278
-F:/data/DeepGlobe Road Extraction Dataset/train/621004
-F:/data/DeepGlobe Road Extraction Dataset/train/698428
-F:/data/DeepGlobe Road Extraction Dataset/train/451987
-F:/data/DeepGlobe Road Extraction Dataset/train/606809
-F:/data/DeepGlobe Road Extraction Dataset/train/750956
-F:/data/DeepGlobe Road Extraction Dataset/train/340497
-F:/data/DeepGlobe Road Extraction Dataset/train/518410
-F:/data/DeepGlobe Road Extraction Dataset/train/993822
-F:/data/DeepGlobe Road Extraction Dataset/train/13148
-F:/data/DeepGlobe Road Extraction Dataset/train/552708
-F:/data/DeepGlobe Road Extraction Dataset/train/735617
-F:/data/DeepGlobe Road Extraction Dataset/train/275849
-F:/data/DeepGlobe Road Extraction Dataset/train/63865
-F:/data/DeepGlobe Road Extraction Dataset/train/710678
-F:/data/DeepGlobe Road Extraction Dataset/train/972206
-F:/data/DeepGlobe Road Extraction Dataset/train/614192
-F:/data/DeepGlobe Road Extraction Dataset/train/872068
-F:/data/DeepGlobe Road Extraction Dataset/train/317824
-F:/data/DeepGlobe Road Extraction Dataset/train/23955
-F:/data/DeepGlobe Road Extraction Dataset/train/597361
-F:/data/DeepGlobe Road Extraction Dataset/train/958471
-F:/data/DeepGlobe Road Extraction Dataset/train/390952
-F:/data/DeepGlobe Road Extraction Dataset/train/487073
-F:/data/DeepGlobe Road Extraction Dataset/train/889679
-F:/data/DeepGlobe Road Extraction Dataset/train/780219
-F:/data/DeepGlobe Road Extraction Dataset/train/274292
-F:/data/DeepGlobe Road Extraction Dataset/train/648598
-F:/data/DeepGlobe Road Extraction Dataset/train/434900
-F:/data/DeepGlobe Road Extraction Dataset/train/329237
-F:/data/DeepGlobe Road Extraction Dataset/train/985216
-F:/data/DeepGlobe Road Extraction Dataset/train/261263
-F:/data/DeepGlobe Road Extraction Dataset/train/508542
-F:/data/DeepGlobe Road Extraction Dataset/train/539191
-F:/data/DeepGlobe Road Extraction Dataset/train/768401
-F:/data/DeepGlobe Road Extraction Dataset/train/340335
-F:/data/DeepGlobe Road Extraction Dataset/train/347354
-F:/data/DeepGlobe Road Extraction Dataset/train/464073
-F:/data/DeepGlobe Road Extraction Dataset/train/920696
-F:/data/DeepGlobe Road Extraction Dataset/train/215260
-F:/data/DeepGlobe Road Extraction Dataset/train/229279
-F:/data/DeepGlobe Road Extraction Dataset/train/705897
-F:/data/DeepGlobe Road Extraction Dataset/train/295447
-F:/data/DeepGlobe Road Extraction Dataset/train/290735
-F:/data/DeepGlobe Road Extraction Dataset/train/542502
-F:/data/DeepGlobe Road Extraction Dataset/train/41495
-F:/data/DeepGlobe Road Extraction Dataset/train/928466
-F:/data/DeepGlobe Road Extraction Dataset/train/875318
-F:/data/DeepGlobe Road Extraction Dataset/train/895620
-F:/data/DeepGlobe Road Extraction Dataset/train/463505
-F:/data/DeepGlobe Road Extraction Dataset/train/203439
-F:/data/DeepGlobe Road Extraction Dataset/train/880700
-F:/data/DeepGlobe Road Extraction Dataset/train/163116
-F:/data/DeepGlobe Road Extraction Dataset/train/437316
-F:/data/DeepGlobe Road Extraction Dataset/train/120778
-F:/data/DeepGlobe Road Extraction Dataset/train/808479
-F:/data/DeepGlobe Road Extraction Dataset/train/567935
-F:/data/DeepGlobe Road Extraction Dataset/train/617037
-F:/data/DeepGlobe Road Extraction Dataset/train/879744
-F:/data/DeepGlobe Road Extraction Dataset/train/525999
-F:/data/DeepGlobe Road Extraction Dataset/train/865483
-F:/data/DeepGlobe Road Extraction Dataset/train/655060
-F:/data/DeepGlobe Road Extraction Dataset/train/398502
-F:/data/DeepGlobe Road Extraction Dataset/train/764015
-F:/data/DeepGlobe Road Extraction Dataset/train/728547
-F:/data/DeepGlobe Road Extraction Dataset/train/169228
-F:/data/DeepGlobe Road Extraction Dataset/train/205591
-F:/data/DeepGlobe Road Extraction Dataset/train/901933
-F:/data/DeepGlobe Road Extraction Dataset/train/948521
-F:/data/DeepGlobe Road Extraction Dataset/train/631884
-F:/data/DeepGlobe Road Extraction Dataset/train/375229
-F:/data/DeepGlobe Road Extraction Dataset/train/272376
-F:/data/DeepGlobe Road Extraction Dataset/train/44223
-F:/data/DeepGlobe Road Extraction Dataset/train/589088
-F:/data/DeepGlobe Road Extraction Dataset/train/323782
-F:/data/DeepGlobe Road Extraction Dataset/train/97854
-F:/data/DeepGlobe Road Extraction Dataset/train/368124
-F:/data/DeepGlobe Road Extraction Dataset/train/995287
-F:/data/DeepGlobe Road Extraction Dataset/train/759019
-F:/data/DeepGlobe Road Extraction Dataset/train/621540
-F:/data/DeepGlobe Road Extraction Dataset/train/263194
-F:/data/DeepGlobe Road Extraction Dataset/train/414592
-F:/data/DeepGlobe Road Extraction Dataset/train/348453
-F:/data/DeepGlobe Road Extraction Dataset/train/654483
-F:/data/DeepGlobe Road Extraction Dataset/train/69335
-F:/data/DeepGlobe Road Extraction Dataset/train/435332
-F:/data/DeepGlobe Road Extraction Dataset/train/524543
-F:/data/DeepGlobe Road Extraction Dataset/train/767819
-F:/data/DeepGlobe Road Extraction Dataset/train/196693
-F:/data/DeepGlobe Road Extraction Dataset/train/857169
-F:/data/DeepGlobe Road Extraction Dataset/train/266719
-F:/data/DeepGlobe Road Extraction Dataset/train/803431
-F:/data/DeepGlobe Road Extraction Dataset/train/407077
-F:/data/DeepGlobe Road Extraction Dataset/train/522907
-F:/data/DeepGlobe Road Extraction Dataset/train/764386
-F:/data/DeepGlobe Road Extraction Dataset/train/933111
-F:/data/DeepGlobe Road Extraction Dataset/train/180468
-F:/data/DeepGlobe Road Extraction Dataset/train/814488
-F:/data/DeepGlobe Road Extraction Dataset/train/680199
-F:/data/DeepGlobe Road Extraction Dataset/train/446852
-F:/data/DeepGlobe Road Extraction Dataset/train/436269
-F:/data/DeepGlobe Road Extraction Dataset/train/606249
-F:/data/DeepGlobe Road Extraction Dataset/train/606850
-F:/data/DeepGlobe Road Extraction Dataset/train/737584
-F:/data/DeepGlobe Road Extraction Dataset/train/343000
-F:/data/DeepGlobe Road Extraction Dataset/train/793162
-F:/data/DeepGlobe Road Extraction Dataset/train/148240
-F:/data/DeepGlobe Road Extraction Dataset/train/534142
-F:/data/DeepGlobe Road Extraction Dataset/train/455105
-F:/data/DeepGlobe Road Extraction Dataset/train/367933
-F:/data/DeepGlobe Road Extraction Dataset/train/262765
-F:/data/DeepGlobe Road Extraction Dataset/train/826780
-F:/data/DeepGlobe Road Extraction Dataset/train/590105
-F:/data/DeepGlobe Road Extraction Dataset/train/920471
-F:/data/DeepGlobe Road Extraction Dataset/train/857151
-F:/data/DeepGlobe Road Extraction Dataset/train/694341
-F:/data/DeepGlobe Road Extraction Dataset/train/357420
-F:/data/DeepGlobe Road Extraction Dataset/train/593764
-F:/data/DeepGlobe Road Extraction Dataset/train/86801
-F:/data/DeepGlobe Road Extraction Dataset/train/783144
-F:/data/DeepGlobe Road Extraction Dataset/train/801268
-F:/data/DeepGlobe Road Extraction Dataset/train/923317
-F:/data/DeepGlobe Road Extraction Dataset/train/59461
-F:/data/DeepGlobe Road Extraction Dataset/train/978037
-F:/data/DeepGlobe Road Extraction Dataset/train/151878
-F:/data/DeepGlobe Road Extraction Dataset/train/514453
-F:/data/DeepGlobe Road Extraction Dataset/train/527316
-F:/data/DeepGlobe Road Extraction Dataset/train/366702
-F:/data/DeepGlobe Road Extraction Dataset/train/905427
-F:/data/DeepGlobe Road Extraction Dataset/train/172458
-F:/data/DeepGlobe Road Extraction Dataset/train/592891
-F:/data/DeepGlobe Road Extraction Dataset/train/285997
-F:/data/DeepGlobe Road Extraction Dataset/train/690430
-F:/data/DeepGlobe Road Extraction Dataset/train/325890
-F:/data/DeepGlobe Road Extraction Dataset/train/306622
-F:/data/DeepGlobe Road Extraction Dataset/train/681248
-F:/data/DeepGlobe Road Extraction Dataset/train/272049
-F:/data/DeepGlobe Road Extraction Dataset/train/153163
-F:/data/DeepGlobe Road Extraction Dataset/train/459951
-F:/data/DeepGlobe Road Extraction Dataset/train/300773
-F:/data/DeepGlobe Road Extraction Dataset/train/944360
-F:/data/DeepGlobe Road Extraction Dataset/train/574091
-F:/data/DeepGlobe Road Extraction Dataset/train/615647
-F:/data/DeepGlobe Road Extraction Dataset/train/17304
-F:/data/DeepGlobe Road Extraction Dataset/train/116658
-F:/data/DeepGlobe Road Extraction Dataset/train/802746
-F:/data/DeepGlobe Road Extraction Dataset/train/494003
-F:/data/DeepGlobe Road Extraction Dataset/train/996088
-F:/data/DeepGlobe Road Extraction Dataset/train/945229
-F:/data/DeepGlobe Road Extraction Dataset/train/197331
-F:/data/DeepGlobe Road Extraction Dataset/train/87819
-F:/data/DeepGlobe Road Extraction Dataset/train/44658
-F:/data/DeepGlobe Road Extraction Dataset/train/339034
-F:/data/DeepGlobe Road Extraction Dataset/train/853196
-F:/data/DeepGlobe Road Extraction Dataset/train/901387
-F:/data/DeepGlobe Road Extraction Dataset/train/158426
-F:/data/DeepGlobe Road Extraction Dataset/train/85681
-F:/data/DeepGlobe Road Extraction Dataset/train/662005
-F:/data/DeepGlobe Road Extraction Dataset/train/52192
-F:/data/DeepGlobe Road Extraction Dataset/train/227016
-F:/data/DeepGlobe Road Extraction Dataset/train/442085
-F:/data/DeepGlobe Road Extraction Dataset/train/175945
-F:/data/DeepGlobe Road Extraction Dataset/train/883864
-F:/data/DeepGlobe Road Extraction Dataset/train/833912
-F:/data/DeepGlobe Road Extraction Dataset/train/774730
-F:/data/DeepGlobe Road Extraction Dataset/train/42547
-F:/data/DeepGlobe Road Extraction Dataset/train/41698
-F:/data/DeepGlobe Road Extraction Dataset/train/723483
-F:/data/DeepGlobe Road Extraction Dataset/train/684145
-F:/data/DeepGlobe Road Extraction Dataset/train/223306
-F:/data/DeepGlobe Road Extraction Dataset/train/617785
-F:/data/DeepGlobe Road Extraction Dataset/train/984363
-F:/data/DeepGlobe Road Extraction Dataset/train/93503
-F:/data/DeepGlobe Road Extraction Dataset/train/234692
-F:/data/DeepGlobe Road Extraction Dataset/train/664405
-F:/data/DeepGlobe Road Extraction Dataset/train/113184
-F:/data/DeepGlobe Road Extraction Dataset/train/601576
-F:/data/DeepGlobe Road Extraction Dataset/train/651299
-F:/data/DeepGlobe Road Extraction Dataset/train/347561
-F:/data/DeepGlobe Road Extraction Dataset/train/308576
-F:/data/DeepGlobe Road Extraction Dataset/train/178641
-F:/data/DeepGlobe Road Extraction Dataset/train/561840
-F:/data/DeepGlobe Road Extraction Dataset/train/258988
-F:/data/DeepGlobe Road Extraction Dataset/train/279971
-F:/data/DeepGlobe Road Extraction Dataset/train/540725
-F:/data/DeepGlobe Road Extraction Dataset/train/535597
-F:/data/DeepGlobe Road Extraction Dataset/train/145767
-F:/data/DeepGlobe Road Extraction Dataset/train/141959
-F:/data/DeepGlobe Road Extraction Dataset/train/791242
-F:/data/DeepGlobe Road Extraction Dataset/train/614553
-F:/data/DeepGlobe Road Extraction Dataset/train/132806
-F:/data/DeepGlobe Road Extraction Dataset/train/41169
-F:/data/DeepGlobe Road Extraction Dataset/train/563695
-F:/data/DeepGlobe Road Extraction Dataset/train/208604
-F:/data/DeepGlobe Road Extraction Dataset/train/119892
-F:/data/DeepGlobe Road Extraction Dataset/train/154219
-F:/data/DeepGlobe Road Extraction Dataset/train/406876
-F:/data/DeepGlobe Road Extraction Dataset/train/776201
-F:/data/DeepGlobe Road Extraction Dataset/train/541950
-F:/data/DeepGlobe Road Extraction Dataset/train/48412
-F:/data/DeepGlobe Road Extraction Dataset/train/310260
-F:/data/DeepGlobe Road Extraction Dataset/train/617069
-F:/data/DeepGlobe Road Extraction Dataset/train/781622
-F:/data/DeepGlobe Road Extraction Dataset/train/225626
-F:/data/DeepGlobe Road Extraction Dataset/train/785117
-F:/data/DeepGlobe Road Extraction Dataset/train/922171
-F:/data/DeepGlobe Road Extraction Dataset/train/380317
-F:/data/DeepGlobe Road Extraction Dataset/train/771718
-F:/data/DeepGlobe Road Extraction Dataset/train/642342
-F:/data/DeepGlobe Road Extraction Dataset/train/483698
-F:/data/DeepGlobe Road Extraction Dataset/train/313276
-F:/data/DeepGlobe Road Extraction Dataset/train/552324
-F:/data/DeepGlobe Road Extraction Dataset/train/514835
-F:/data/DeepGlobe Road Extraction Dataset/train/707157
-F:/data/DeepGlobe Road Extraction Dataset/train/50639
-F:/data/DeepGlobe Road Extraction Dataset/train/33736
-F:/data/DeepGlobe Road Extraction Dataset/train/628494
-F:/data/DeepGlobe Road Extraction Dataset/train/55447
-F:/data/DeepGlobe Road Extraction Dataset/train/991988
-F:/data/DeepGlobe Road Extraction Dataset/train/698989
-F:/data/DeepGlobe Road Extraction Dataset/train/199155
+/Users/fsm/Road/data/train/9339
+/Users/fsm/Road/data/train/756844
+/Users/fsm/Road/data/train/131782
+/Users/fsm/Road/data/train/132627
+/Users/fsm/Road/data/train/373623
+/Users/fsm/Road/data/train/35189
+/Users/fsm/Road/data/train/825884
+/Users/fsm/Road/data/train/376233
+/Users/fsm/Road/data/train/409698
+/Users/fsm/Road/data/train/407077
+/Users/fsm/Road/data/train/143700
+/Users/fsm/Road/data/train/357420
+/Users/fsm/Road/data/train/531060
+/Users/fsm/Road/data/train/933392
+/Users/fsm/Road/data/train/765458
+/Users/fsm/Road/data/train/655060
+/Users/fsm/Road/data/train/222583
+/Users/fsm/Road/data/train/345705
+/Users/fsm/Road/data/train/131087
+/Users/fsm/Road/data/train/354263
+/Users/fsm/Road/data/train/906649
+/Users/fsm/Road/data/train/553521
+/Users/fsm/Road/data/train/751585
+/Users/fsm/Road/data/train/848876
+/Users/fsm/Road/data/train/482855
+/Users/fsm/Road/data/train/614553
+/Users/fsm/Road/data/train/351766
+/Users/fsm/Road/data/train/379373
+/Users/fsm/Road/data/train/491869
+/Users/fsm/Road/data/train/732079
+/Users/fsm/Road/data/train/114405
+/Users/fsm/Road/data/train/284571
+/Users/fsm/Road/data/train/303816
+/Users/fsm/Road/data/train/167617
+/Users/fsm/Road/data/train/164519
+/Users/fsm/Road/data/train/583499
+/Users/fsm/Road/data/train/645527
+/Users/fsm/Road/data/train/81977
+/Users/fsm/Road/data/train/570749
+/Users/fsm/Road/data/train/838851
+/Users/fsm/Road/data/train/716204
+/Users/fsm/Road/data/train/937803
+/Users/fsm/Road/data/train/117357
+/Users/fsm/Road/data/train/984363
+/Users/fsm/Road/data/train/393063
+/Users/fsm/Road/data/train/40682
+/Users/fsm/Road/data/train/461998
+/Users/fsm/Road/data/train/305441
+/Users/fsm/Road/data/train/564839
+/Users/fsm/Road/data/train/948521
+/Users/fsm/Road/data/train/764194
+/Users/fsm/Road/data/train/827392
+/Users/fsm/Road/data/train/979028
+/Users/fsm/Road/data/train/931102
+/Users/fsm/Road/data/train/485389
+/Users/fsm/Road/data/train/5740
+/Users/fsm/Road/data/train/292950
+/Users/fsm/Road/data/train/776146
+/Users/fsm/Road/data/train/719394
+/Users/fsm/Road/data/train/604244
+/Users/fsm/Road/data/train/560262
+/Users/fsm/Road/data/train/250177
+/Users/fsm/Road/data/train/814649
+/Users/fsm/Road/data/train/933045
+/Users/fsm/Road/data/train/203308
+/Users/fsm/Road/data/train/869031
+/Users/fsm/Road/data/train/828496
+/Users/fsm/Road/data/train/604577
+/Users/fsm/Road/data/train/889313
+/Users/fsm/Road/data/train/318304
+/Users/fsm/Road/data/train/464129
+/Users/fsm/Road/data/train/961236
+/Users/fsm/Road/data/train/103447
+/Users/fsm/Road/data/train/834943
+/Users/fsm/Road/data/train/607661
+/Users/fsm/Road/data/train/424392
+/Users/fsm/Road/data/train/850981
+/Users/fsm/Road/data/train/915429
+/Users/fsm/Road/data/train/347485
+/Users/fsm/Road/data/train/869759
+/Users/fsm/Road/data/train/345150
+/Users/fsm/Road/data/train/62222
+/Users/fsm/Road/data/train/65217
+/Users/fsm/Road/data/train/612254
+/Users/fsm/Road/data/train/392105
+/Users/fsm/Road/data/train/938881
+/Users/fsm/Road/data/train/299142
+/Users/fsm/Road/data/train/459951
+/Users/fsm/Road/data/train/472152
+/Users/fsm/Road/data/train/459980
+/Users/fsm/Road/data/train/520367
+/Users/fsm/Road/data/train/946083
+/Users/fsm/Road/data/train/364140
+/Users/fsm/Road/data/train/878826
+/Users/fsm/Road/data/train/418944
+/Users/fsm/Road/data/train/991347
+/Users/fsm/Road/data/train/761239
+/Users/fsm/Road/data/train/828875
+/Users/fsm/Road/data/train/444795
+/Users/fsm/Road/data/train/318661
+/Users/fsm/Road/data/train/138764
+/Users/fsm/Road/data/train/400782
+/Users/fsm/Road/data/train/837143
+/Users/fsm/Road/data/train/605287
+/Users/fsm/Road/data/train/586635
+/Users/fsm/Road/data/train/698989
+/Users/fsm/Road/data/train/163215
+/Users/fsm/Road/data/train/917746
+/Users/fsm/Road/data/train/943345
+/Users/fsm/Road/data/train/21197
+/Users/fsm/Road/data/train/574420
+/Users/fsm/Road/data/train/763964
+/Users/fsm/Road/data/train/743232
+/Users/fsm/Road/data/train/297515
+/Users/fsm/Road/data/train/422719
+/Users/fsm/Road/data/train/160432
+/Users/fsm/Road/data/train/153718
+/Users/fsm/Road/data/train/875169
+/Users/fsm/Road/data/train/243913
+/Users/fsm/Road/data/train/218391
+/Users/fsm/Road/data/train/385085
+/Users/fsm/Road/data/train/39045
+/Users/fsm/Road/data/train/616751
+/Users/fsm/Road/data/train/625913
+/Users/fsm/Road/data/train/617734
+/Users/fsm/Road/data/train/319229
+/Users/fsm/Road/data/train/191470
+/Users/fsm/Road/data/train/847602
+/Users/fsm/Road/data/train/534017
+/Users/fsm/Road/data/train/821399
+/Users/fsm/Road/data/train/129892
+/Users/fsm/Road/data/train/36243
+/Users/fsm/Road/data/train/408303
+/Users/fsm/Road/data/train/205035
+/Users/fsm/Road/data/train/354829
+/Users/fsm/Road/data/train/759445
+/Users/fsm/Road/data/train/304480
+/Users/fsm/Road/data/train/214451
+/Users/fsm/Road/data/train/104683
+/Users/fsm/Road/data/train/191119
+/Users/fsm/Road/data/train/622328
+/Users/fsm/Road/data/train/59805
+/Users/fsm/Road/data/train/940185
+/Users/fsm/Road/data/train/407550
+/Users/fsm/Road/data/train/456174
+/Users/fsm/Road/data/train/265926
+/Users/fsm/Road/data/train/946035
+/Users/fsm/Road/data/train/390893
+/Users/fsm/Road/data/train/245951
+/Users/fsm/Road/data/train/746005
+/Users/fsm/Road/data/train/736629
+/Users/fsm/Road/data/train/172349
+/Users/fsm/Road/data/train/451163
+/Users/fsm/Road/data/train/305454
+/Users/fsm/Road/data/train/251273
+/Users/fsm/Road/data/train/941094
+/Users/fsm/Road/data/train/17707
+/Users/fsm/Road/data/train/23388
+/Users/fsm/Road/data/train/845555
+/Users/fsm/Road/data/train/476874
+/Users/fsm/Road/data/train/13148
+/Users/fsm/Road/data/train/448103
+/Users/fsm/Road/data/train/366702
+/Users/fsm/Road/data/train/687712
+/Users/fsm/Road/data/train/174934
+/Users/fsm/Road/data/train/5523
+/Users/fsm/Road/data/train/478066
+/Users/fsm/Road/data/train/789010
+/Users/fsm/Road/data/train/122817
+/Users/fsm/Road/data/train/1934
+/Users/fsm/Road/data/train/901237
+/Users/fsm/Road/data/train/86492
+/Users/fsm/Road/data/train/456118
+/Users/fsm/Road/data/train/105252
+/Users/fsm/Road/data/train/650238
+/Users/fsm/Road/data/train/887850
+/Users/fsm/Road/data/train/828369
+/Users/fsm/Road/data/train/885320
+/Users/fsm/Road/data/train/352622
+/Users/fsm/Road/data/train/380471
+/Users/fsm/Road/data/train/224916
+/Users/fsm/Road/data/train/836613
+/Users/fsm/Road/data/train/504595
+/Users/fsm/Road/data/train/748913
+/Users/fsm/Road/data/train/70933
+/Users/fsm/Road/data/train/800325
+/Users/fsm/Road/data/train/32058
+/Users/fsm/Road/data/train/172458
+/Users/fsm/Road/data/train/864357
+/Users/fsm/Road/data/train/371353
+/Users/fsm/Road/data/train/274678
+/Users/fsm/Road/data/train/61348
+/Users/fsm/Road/data/train/2667
+/Users/fsm/Road/data/train/499763
+/Users/fsm/Road/data/train/439818
+/Users/fsm/Road/data/train/40820
+/Users/fsm/Road/data/train/592441
+/Users/fsm/Road/data/train/255668
+/Users/fsm/Road/data/train/821194
+/Users/fsm/Road/data/train/217242
+/Users/fsm/Road/data/train/180165
+/Users/fsm/Road/data/train/591921
+/Users/fsm/Road/data/train/569545
+/Users/fsm/Road/data/train/867087
+/Users/fsm/Road/data/train/620166
+/Users/fsm/Road/data/train/825933
+/Users/fsm/Road/data/train/365134
+/Users/fsm/Road/data/train/801061
+/Users/fsm/Road/data/train/588923
+/Users/fsm/Road/data/train/334908
+/Users/fsm/Road/data/train/184429
+/Users/fsm/Road/data/train/700268
+/Users/fsm/Road/data/train/699275
+/Users/fsm/Road/data/train/724705
+/Users/fsm/Road/data/train/386497
+/Users/fsm/Road/data/train/840823
+/Users/fsm/Road/data/train/286038
+/Users/fsm/Road/data/train/39367
+/Users/fsm/Road/data/train/802074
+/Users/fsm/Road/data/train/422875
+/Users/fsm/Road/data/train/229851
+/Users/fsm/Road/data/train/802401
+/Users/fsm/Road/data/train/538270
+/Users/fsm/Road/data/train/667059
+/Users/fsm/Road/data/train/167806
+/Users/fsm/Road/data/train/626159
+/Users/fsm/Road/data/train/478935
+/Users/fsm/Road/data/train/955948
+/Users/fsm/Road/data/train/884835
+/Users/fsm/Road/data/train/405216
+/Users/fsm/Road/data/train/919932
+/Users/fsm/Road/data/train/594108
+/Users/fsm/Road/data/train/12023
+/Users/fsm/Road/data/train/773440
+/Users/fsm/Road/data/train/93993
+/Users/fsm/Road/data/train/259945
+/Users/fsm/Road/data/train/963426
+/Users/fsm/Road/data/train/84529
+/Users/fsm/Road/data/train/519944
+/Users/fsm/Road/data/train/767432
+/Users/fsm/Road/data/train/957898
+/Users/fsm/Road/data/train/790590
+/Users/fsm/Road/data/train/782055
+/Users/fsm/Road/data/train/182381
+/Users/fsm/Road/data/train/826921
+/Users/fsm/Road/data/train/341131
+/Users/fsm/Road/data/train/325090
+/Users/fsm/Road/data/train/36626
+/Users/fsm/Road/data/train/713865
+/Users/fsm/Road/data/train/49320
+/Users/fsm/Road/data/train/984438
+/Users/fsm/Road/data/train/428325
+/Users/fsm/Road/data/train/523766
+/Users/fsm/Road/data/train/289032
+/Users/fsm/Road/data/train/176017
+/Users/fsm/Road/data/train/715124
+/Users/fsm/Road/data/train/912979
+/Users/fsm/Road/data/train/369061
+/Users/fsm/Road/data/train/250816
+/Users/fsm/Road/data/train/750608
+/Users/fsm/Road/data/train/248426
+/Users/fsm/Road/data/train/457238
+/Users/fsm/Road/data/train/581698
+/Users/fsm/Road/data/train/760036
+/Users/fsm/Road/data/train/18781
+/Users/fsm/Road/data/train/72689
+/Users/fsm/Road/data/train/997980
+/Users/fsm/Road/data/train/138975
+/Users/fsm/Road/data/train/81456
+/Users/fsm/Road/data/train/805413
+/Users/fsm/Road/data/train/78186
+/Users/fsm/Road/data/train/820362
+/Users/fsm/Road/data/train/91317
+/Users/fsm/Road/data/train/632632
+/Users/fsm/Road/data/train/755970
+/Users/fsm/Road/data/train/597934
+/Users/fsm/Road/data/train/479161
+/Users/fsm/Road/data/train/122985
+/Users/fsm/Road/data/train/342201
+/Users/fsm/Road/data/train/6383
+/Users/fsm/Road/data/train/487618
+/Users/fsm/Road/data/train/318320
+/Users/fsm/Road/data/train/102945
+/Users/fsm/Road/data/train/814358
+/Users/fsm/Road/data/train/232116
+/Users/fsm/Road/data/train/395487
+/Users/fsm/Road/data/train/573331
+/Users/fsm/Road/data/train/146417
+/Users/fsm/Road/data/train/642760
+/Users/fsm/Road/data/train/568345
+/Users/fsm/Road/data/train/295066
+/Users/fsm/Road/data/train/525683
+/Users/fsm/Road/data/train/581915
+/Users/fsm/Road/data/train/472987
+/Users/fsm/Road/data/train/745266
+/Users/fsm/Road/data/train/36057
+/Users/fsm/Road/data/train/697165
+/Users/fsm/Road/data/train/361860
+/Users/fsm/Road/data/train/153971
+/Users/fsm/Road/data/train/703903
+/Users/fsm/Road/data/train/884005
+/Users/fsm/Road/data/train/503760
+/Users/fsm/Road/data/train/531826
+/Users/fsm/Road/data/train/393111
+/Users/fsm/Road/data/train/521735
+/Users/fsm/Road/data/train/303190
+/Users/fsm/Road/data/train/291379
+/Users/fsm/Road/data/train/181613
+/Users/fsm/Road/data/train/102699
+/Users/fsm/Road/data/train/947964
+/Users/fsm/Road/data/train/662917
+/Users/fsm/Road/data/train/267964
+/Users/fsm/Road/data/train/400877
+/Users/fsm/Road/data/train/499198
+/Users/fsm/Road/data/train/148138
+/Users/fsm/Road/data/train/616342
+/Users/fsm/Road/data/train/474849
+/Users/fsm/Road/data/train/603448
+/Users/fsm/Road/data/train/930950
+/Users/fsm/Road/data/train/522851
+/Users/fsm/Road/data/train/956106
+/Users/fsm/Road/data/train/804011
+/Users/fsm/Road/data/train/196693
+/Users/fsm/Road/data/train/527572
+/Users/fsm/Road/data/train/833388
+/Users/fsm/Road/data/train/267296
+/Users/fsm/Road/data/train/570954
+/Users/fsm/Road/data/train/101225
+/Users/fsm/Road/data/train/583530
+/Users/fsm/Road/data/train/442850
+/Users/fsm/Road/data/train/258433
+/Users/fsm/Road/data/train/528546
+/Users/fsm/Road/data/train/559237
+/Users/fsm/Road/data/train/914417
+/Users/fsm/Road/data/train/736465
+/Users/fsm/Road/data/train/89810
+/Users/fsm/Road/data/train/297007
+/Users/fsm/Road/data/train/9937
+/Users/fsm/Road/data/train/512416
+/Users/fsm/Road/data/train/133864
+/Users/fsm/Road/data/train/709761
+/Users/fsm/Road/data/train/590105
+/Users/fsm/Road/data/train/81104
+/Users/fsm/Road/data/train/392609
+/Users/fsm/Road/data/train/172100
+/Users/fsm/Road/data/train/384693
+/Users/fsm/Road/data/train/169228
+/Users/fsm/Road/data/train/533679
+/Users/fsm/Road/data/train/627243
+/Users/fsm/Road/data/train/299851
+/Users/fsm/Road/data/train/803210
+/Users/fsm/Road/data/train/757498
+/Users/fsm/Road/data/train/195081
+/Users/fsm/Road/data/train/373640
+/Users/fsm/Road/data/train/182133
+/Users/fsm/Road/data/train/495651
+/Users/fsm/Road/data/train/675430
+/Users/fsm/Road/data/train/763876
+/Users/fsm/Road/data/train/932457
+/Users/fsm/Road/data/train/597231
+/Users/fsm/Road/data/train/127763
+/Users/fsm/Road/data/train/721436
+/Users/fsm/Road/data/train/907182
+/Users/fsm/Road/data/train/249627
+/Users/fsm/Road/data/train/62501
+/Users/fsm/Road/data/train/821625
+/Users/fsm/Road/data/train/233711
+/Users/fsm/Road/data/train/310260
+/Users/fsm/Road/data/train/640623
+/Users/fsm/Road/data/train/487796
+/Users/fsm/Road/data/train/390011
+/Users/fsm/Road/data/train/519132
+/Users/fsm/Road/data/train/357302
+/Users/fsm/Road/data/train/301560
+/Users/fsm/Road/data/train/929363
+/Users/fsm/Road/data/train/174568
+/Users/fsm/Road/data/train/492023
+/Users/fsm/Road/data/train/183970
+/Users/fsm/Road/data/train/60696
+/Users/fsm/Road/data/train/547926
+/Users/fsm/Road/data/train/815085
+/Users/fsm/Road/data/train/750485
+/Users/fsm/Road/data/train/531880
+/Users/fsm/Road/data/train/972254
+/Users/fsm/Road/data/train/951195
+/Users/fsm/Road/data/train/25773
+/Users/fsm/Road/data/train/985661
+/Users/fsm/Road/data/train/566987
+/Users/fsm/Road/data/train/642020
+/Users/fsm/Road/data/train/316677
+/Users/fsm/Road/data/train/600556
+/Users/fsm/Road/data/train/914823
+/Users/fsm/Road/data/train/860676
+/Users/fsm/Road/data/train/85473
+/Users/fsm/Road/data/train/947864
+/Users/fsm/Road/data/train/610183
+/Users/fsm/Road/data/train/330562
+/Users/fsm/Road/data/train/783991
+/Users/fsm/Road/data/train/549429
+/Users/fsm/Road/data/train/105596
+/Users/fsm/Road/data/train/806195
+/Users/fsm/Road/data/train/462257
+/Users/fsm/Road/data/train/949143
+/Users/fsm/Road/data/train/118856
+/Users/fsm/Road/data/train/17324
+/Users/fsm/Road/data/train/400649
+/Users/fsm/Road/data/train/679534
+/Users/fsm/Road/data/train/629707
+/Users/fsm/Road/data/train/548256
+/Users/fsm/Road/data/train/412126
+/Users/fsm/Road/data/train/226279
+/Users/fsm/Road/data/train/999431
+/Users/fsm/Road/data/train/197146
+/Users/fsm/Road/data/train/200332
+/Users/fsm/Road/data/train/472031
+/Users/fsm/Road/data/train/940374
+/Users/fsm/Road/data/train/900412
+/Users/fsm/Road/data/train/290295
+/Users/fsm/Road/data/train/709100
+/Users/fsm/Road/data/train/612216
+/Users/fsm/Road/data/train/195418
+/Users/fsm/Road/data/train/257388
+/Users/fsm/Road/data/train/165674
+/Users/fsm/Road/data/train/518439
+/Users/fsm/Road/data/train/849469
+/Users/fsm/Road/data/train/484479
+/Users/fsm/Road/data/train/282861
+/Users/fsm/Road/data/train/565072
+/Users/fsm/Road/data/train/341944
+/Users/fsm/Road/data/train/400636
+/Users/fsm/Road/data/train/955344
+/Users/fsm/Road/data/train/457865
+/Users/fsm/Road/data/train/528828
+/Users/fsm/Road/data/train/286522
+/Users/fsm/Road/data/train/693141
+/Users/fsm/Road/data/train/784925
+/Users/fsm/Road/data/train/122555
+/Users/fsm/Road/data/train/359166
+/Users/fsm/Road/data/train/663316
+/Users/fsm/Road/data/train/567448
+/Users/fsm/Road/data/train/475984
+/Users/fsm/Road/data/train/976970
+/Users/fsm/Road/data/train/338671
+/Users/fsm/Road/data/train/21009
+/Users/fsm/Road/data/train/830842
+/Users/fsm/Road/data/train/325890
+/Users/fsm/Road/data/train/378334
+/Users/fsm/Road/data/train/632403
+/Users/fsm/Road/data/train/297932
+/Users/fsm/Road/data/train/306622
+/Users/fsm/Road/data/train/805540
+/Users/fsm/Road/data/train/129975
+/Users/fsm/Road/data/train/384535
+/Users/fsm/Road/data/train/479347
+/Users/fsm/Road/data/train/66180
+/Users/fsm/Road/data/train/287479
+/Users/fsm/Road/data/train/895620
+/Users/fsm/Road/data/train/16493
+/Users/fsm/Road/data/train/752517
+/Users/fsm/Road/data/train/690411
+/Users/fsm/Road/data/train/802821
+/Users/fsm/Road/data/train/670062
+/Users/fsm/Road/data/train/868440
+/Users/fsm/Road/data/train/577027
+/Users/fsm/Road/data/train/55261
+/Users/fsm/Road/data/train/964566
+/Users/fsm/Road/data/train/495562
+/Users/fsm/Road/data/train/622284
+/Users/fsm/Road/data/train/202587
+/Users/fsm/Road/data/train/44984
+/Users/fsm/Road/data/train/611936
+/Users/fsm/Road/data/train/957715
+/Users/fsm/Road/data/train/538786
+/Users/fsm/Road/data/train/301319
+/Users/fsm/Road/data/train/974256
+/Users/fsm/Road/data/train/230849
+/Users/fsm/Road/data/train/574546
+/Users/fsm/Road/data/train/463877
+/Users/fsm/Road/data/train/792667
+/Users/fsm/Road/data/train/616795
+/Users/fsm/Road/data/train/298351
+/Users/fsm/Road/data/train/848568
+/Users/fsm/Road/data/train/107412
+/Users/fsm/Road/data/train/281122
+/Users/fsm/Road/data/train/446778
+/Users/fsm/Road/data/train/199215
+/Users/fsm/Road/data/train/401562
+/Users/fsm/Road/data/train/42547
+/Users/fsm/Road/data/train/515857
+/Users/fsm/Road/data/train/150624
+/Users/fsm/Road/data/train/646530
+/Users/fsm/Road/data/train/150276
+/Users/fsm/Road/data/train/479791
+/Users/fsm/Road/data/train/238385
+/Users/fsm/Road/data/train/696333
+/Users/fsm/Road/data/train/643671
+/Users/fsm/Road/data/train/730524
+/Users/fsm/Road/data/train/418920
+/Users/fsm/Road/data/train/515984
+/Users/fsm/Road/data/train/233751
+/Users/fsm/Road/data/train/605592
+/Users/fsm/Road/data/train/372555
+/Users/fsm/Road/data/train/317756
+/Users/fsm/Road/data/train/116293
+/Users/fsm/Road/data/train/924937
+/Users/fsm/Road/data/train/829413
+/Users/fsm/Road/data/train/97852
+/Users/fsm/Road/data/train/788114
+/Users/fsm/Road/data/train/339797
+/Users/fsm/Road/data/train/709045
+/Users/fsm/Road/data/train/109493
+/Users/fsm/Road/data/train/705112
+/Users/fsm/Road/data/train/778053
+/Users/fsm/Road/data/train/829346
+/Users/fsm/Road/data/train/754506
+/Users/fsm/Road/data/train/909059
+/Users/fsm/Road/data/train/357428
+/Users/fsm/Road/data/train/788311
+/Users/fsm/Road/data/train/132806
+/Users/fsm/Road/data/train/54635
+/Users/fsm/Road/data/train/932169
+/Users/fsm/Road/data/train/304805
+/Users/fsm/Road/data/train/905298
+/Users/fsm/Road/data/train/824865
+/Users/fsm/Road/data/train/297409
+/Users/fsm/Road/data/train/855477
+/Users/fsm/Road/data/train/770503
+/Users/fsm/Road/data/train/959925
+/Users/fsm/Road/data/train/700753
+/Users/fsm/Road/data/train/543577
+/Users/fsm/Road/data/train/746743
+/Users/fsm/Road/data/train/169099
+/Users/fsm/Road/data/train/216376
+/Users/fsm/Road/data/train/616496
+/Users/fsm/Road/data/train/970400
+/Users/fsm/Road/data/train/306070
+/Users/fsm/Road/data/train/226806
+/Users/fsm/Road/data/train/528241
+/Users/fsm/Road/data/train/347354
+/Users/fsm/Road/data/train/939551
+/Users/fsm/Road/data/train/855113
+/Users/fsm/Road/data/train/715082
+/Users/fsm/Road/data/train/220961
+/Users/fsm/Road/data/train/121860
+/Users/fsm/Road/data/train/467054
+/Users/fsm/Road/data/train/227154
+/Users/fsm/Road/data/train/679539
+/Users/fsm/Road/data/train/16754
+/Users/fsm/Road/data/train/915200
+/Users/fsm/Road/data/train/573888
+/Users/fsm/Road/data/train/757855
+/Users/fsm/Road/data/train/682069
+/Users/fsm/Road/data/train/938177
+/Users/fsm/Road/data/train/252025
+/Users/fsm/Road/data/train/262506
+/Users/fsm/Road/data/train/59461
+/Users/fsm/Road/data/train/424153
+/Users/fsm/Road/data/train/48306
+/Users/fsm/Road/data/train/111202
+/Users/fsm/Road/data/train/842844
+/Users/fsm/Road/data/train/810101
+/Users/fsm/Road/data/train/950919
+/Users/fsm/Road/data/train/928777
+/Users/fsm/Road/data/train/322654
+/Users/fsm/Road/data/train/440205
+/Users/fsm/Road/data/train/749787
+/Users/fsm/Road/data/train/26044
+/Users/fsm/Road/data/train/393590
+/Users/fsm/Road/data/train/310520
+/Users/fsm/Road/data/train/693888
+/Users/fsm/Road/data/train/882937
+/Users/fsm/Road/data/train/966775
+/Users/fsm/Road/data/train/737584
+/Users/fsm/Road/data/train/156501
+/Users/fsm/Road/data/train/740261
+/Users/fsm/Road/data/train/829196
+/Users/fsm/Road/data/train/886164
+/Users/fsm/Road/data/train/481958
+/Users/fsm/Road/data/train/123079
+/Users/fsm/Road/data/train/299284
+/Users/fsm/Road/data/train/217741
+/Users/fsm/Road/data/train/625150
+/Users/fsm/Road/data/train/542648
+/Users/fsm/Road/data/train/634362
+/Users/fsm/Road/data/train/103722
+/Users/fsm/Road/data/train/918063
+/Users/fsm/Road/data/train/95440
+/Users/fsm/Road/data/train/490221
+/Users/fsm/Road/data/train/197951
+/Users/fsm/Road/data/train/350684
+/Users/fsm/Road/data/train/947674
+/Users/fsm/Road/data/train/181861
+/Users/fsm/Road/data/train/479496
+/Users/fsm/Road/data/train/168410
+/Users/fsm/Road/data/train/234692
+/Users/fsm/Road/data/train/387383
+/Users/fsm/Road/data/train/495891
+/Users/fsm/Road/data/train/795367
+/Users/fsm/Road/data/train/262765
+/Users/fsm/Road/data/train/856890
+/Users/fsm/Road/data/train/141216
+/Users/fsm/Road/data/train/13945
+/Users/fsm/Road/data/train/935105
+/Users/fsm/Road/data/train/247529
+/Users/fsm/Road/data/train/503492
+/Users/fsm/Road/data/train/609106
+/Users/fsm/Road/data/train/934673
+/Users/fsm/Road/data/train/563058
+/Users/fsm/Road/data/train/580468
+/Users/fsm/Road/data/train/479232
+/Users/fsm/Road/data/train/579735
+/Users/fsm/Road/data/train/195106
+/Users/fsm/Road/data/train/492842
+/Users/fsm/Road/data/train/180734
+/Users/fsm/Road/data/train/77950
+/Users/fsm/Road/data/train/400830
+/Users/fsm/Road/data/train/471214
+/Users/fsm/Road/data/train/748093
+/Users/fsm/Road/data/train/390727
+/Users/fsm/Road/data/train/293084
+/Users/fsm/Road/data/train/951
+/Users/fsm/Road/data/train/689530
+/Users/fsm/Road/data/train/773427
+/Users/fsm/Road/data/train/599967
+/Users/fsm/Road/data/train/198077
+/Users/fsm/Road/data/train/753694
+/Users/fsm/Road/data/train/556251
+/Users/fsm/Road/data/train/136313
+/Users/fsm/Road/data/train/473650
+/Users/fsm/Road/data/train/523322
+/Users/fsm/Road/data/train/335329
+/Users/fsm/Road/data/train/188714
+/Users/fsm/Road/data/train/73959
+/Users/fsm/Road/data/train/674155
+/Users/fsm/Road/data/train/18896
+/Users/fsm/Road/data/train/641148
+/Users/fsm/Road/data/train/222833
+/Users/fsm/Road/data/train/570197
+/Users/fsm/Road/data/train/173458
+/Users/fsm/Road/data/train/563983
+/Users/fsm/Road/data/train/153859
+/Users/fsm/Road/data/train/599143
+/Users/fsm/Road/data/train/487358
+/Users/fsm/Road/data/train/615681
+/Users/fsm/Road/data/train/563569
+/Users/fsm/Road/data/train/519392
+/Users/fsm/Road/data/train/566139
+/Users/fsm/Road/data/train/483961
+/Users/fsm/Road/data/train/357288
+/Users/fsm/Road/data/train/796875
+/Users/fsm/Road/data/train/195175
+/Users/fsm/Road/data/train/178641
+/Users/fsm/Road/data/train/361334
+/Users/fsm/Road/data/train/311390
+/Users/fsm/Road/data/train/370642
+/Users/fsm/Road/data/train/359514
+/Users/fsm/Road/data/train/771451
+/Users/fsm/Road/data/train/815188
+/Users/fsm/Road/data/train/63467
+/Users/fsm/Road/data/train/715844
+/Users/fsm/Road/data/train/714780
+/Users/fsm/Road/data/train/300983
+/Users/fsm/Road/data/train/419437
+/Users/fsm/Road/data/train/337231
+/Users/fsm/Road/data/train/818643
+/Users/fsm/Road/data/train/424027
+/Users/fsm/Road/data/train/995558
+/Users/fsm/Road/data/train/281530
+/Users/fsm/Road/data/train/380270
+/Users/fsm/Road/data/train/515241
+/Users/fsm/Road/data/train/670271
+/Users/fsm/Road/data/train/534822
+/Users/fsm/Road/data/train/825309
+/Users/fsm/Road/data/train/744188
+/Users/fsm/Road/data/train/356039
+/Users/fsm/Road/data/train/202688
+/Users/fsm/Road/data/train/465606
+/Users/fsm/Road/data/train/711711
+/Users/fsm/Road/data/train/295155
+/Users/fsm/Road/data/train/618759
+/Users/fsm/Road/data/train/366622
+/Users/fsm/Road/data/train/201729
+/Users/fsm/Road/data/train/966836
+/Users/fsm/Road/data/train/660691
+/Users/fsm/Road/data/train/110521
+/Users/fsm/Road/data/train/614192
+/Users/fsm/Road/data/train/944241
+/Users/fsm/Road/data/train/453490
+/Users/fsm/Road/data/train/456342
+/Users/fsm/Road/data/train/652168
+/Users/fsm/Road/data/train/353416
+/Users/fsm/Road/data/train/862163
+/Users/fsm/Road/data/train/111475
+/Users/fsm/Road/data/train/144547
+/Users/fsm/Road/data/train/16577
+/Users/fsm/Road/data/train/183259
+/Users/fsm/Road/data/train/630092
+/Users/fsm/Road/data/train/222415
+/Users/fsm/Road/data/train/944008
+/Users/fsm/Road/data/train/42398
+/Users/fsm/Road/data/train/996972
+/Users/fsm/Road/data/train/638920
+/Users/fsm/Road/data/train/328712
+/Users/fsm/Road/data/train/508910
+/Users/fsm/Road/data/train/930021
+/Users/fsm/Road/data/train/103341
+/Users/fsm/Road/data/train/704571
+/Users/fsm/Road/data/train/794943
+/Users/fsm/Road/data/train/866782
+/Users/fsm/Road/data/train/529641
+/Users/fsm/Road/data/train/906380
+/Users/fsm/Road/data/train/536197
+/Users/fsm/Road/data/train/736732
+/Users/fsm/Road/data/train/768045
+/Users/fsm/Road/data/train/400466
+/Users/fsm/Road/data/train/323177
+/Users/fsm/Road/data/train/503810
+/Users/fsm/Road/data/train/845047
+/Users/fsm/Road/data/train/78882
+/Users/fsm/Road/data/train/112762
+/Users/fsm/Road/data/train/455244
+/Users/fsm/Road/data/train/633675
+/Users/fsm/Road/data/train/718606
+/Users/fsm/Road/data/train/794616
+/Users/fsm/Road/data/train/246455
+/Users/fsm/Road/data/train/581535
+/Users/fsm/Road/data/train/571809
+/Users/fsm/Road/data/train/584245
+/Users/fsm/Road/data/train/91861
+/Users/fsm/Road/data/train/266201
+/Users/fsm/Road/data/train/815240
+/Users/fsm/Road/data/train/283581
+/Users/fsm/Road/data/train/80773
+/Users/fsm/Road/data/train/665694
+/Users/fsm/Road/data/train/376720
+/Users/fsm/Road/data/train/270299
+/Users/fsm/Road/data/train/373103
+/Users/fsm/Road/data/train/451626
+/Users/fsm/Road/data/train/603764
+/Users/fsm/Road/data/train/312784
+/Users/fsm/Road/data/train/176168
+/Users/fsm/Road/data/train/217718
+/Users/fsm/Road/data/train/735617
+/Users/fsm/Road/data/train/683201
+/Users/fsm/Road/data/train/4209
+/Users/fsm/Road/data/train/778294
+/Users/fsm/Road/data/train/869219
+/Users/fsm/Road/data/train/247410
+/Users/fsm/Road/data/train/813792
+/Users/fsm/Road/data/train/98477
+/Users/fsm/Road/data/train/903343
+/Users/fsm/Road/data/train/964555
+/Users/fsm/Road/data/train/880871
+/Users/fsm/Road/data/train/425707
+/Users/fsm/Road/data/train/323579
+/Users/fsm/Road/data/train/221946
+/Users/fsm/Road/data/train/887622
+/Users/fsm/Road/data/train/314550
+/Users/fsm/Road/data/train/773391
+/Users/fsm/Road/data/train/421486
+/Users/fsm/Road/data/train/690021
+/Users/fsm/Road/data/train/935574
+/Users/fsm/Road/data/train/334723
+/Users/fsm/Road/data/train/322403
+/Users/fsm/Road/data/train/157037
+/Users/fsm/Road/data/train/834966
+/Users/fsm/Road/data/train/917891
+/Users/fsm/Road/data/train/648598
+/Users/fsm/Road/data/train/420072
+/Users/fsm/Road/data/train/177494
+/Users/fsm/Road/data/train/200777
+/Users/fsm/Road/data/train/917198
+/Users/fsm/Road/data/train/600550
+/Users/fsm/Road/data/train/924321
+/Users/fsm/Road/data/train/9663
+/Users/fsm/Road/data/train/231652
+/Users/fsm/Road/data/train/562
+/Users/fsm/Road/data/train/603189
+/Users/fsm/Road/data/train/366050
+/Users/fsm/Road/data/train/857169
+/Users/fsm/Road/data/train/188369
+/Users/fsm/Road/data/train/608673
+/Users/fsm/Road/data/train/652662
+/Users/fsm/Road/data/train/651216
+/Users/fsm/Road/data/train/708268
+/Users/fsm/Road/data/train/686939
+/Users/fsm/Road/data/train/809150
+/Users/fsm/Road/data/train/587045
+/Users/fsm/Road/data/train/146766
+/Users/fsm/Road/data/train/877088
+/Users/fsm/Road/data/train/201854
+/Users/fsm/Road/data/train/40882
+/Users/fsm/Road/data/train/742880
+/Users/fsm/Road/data/train/841208
+/Users/fsm/Road/data/train/990140
+/Users/fsm/Road/data/train/272376
+/Users/fsm/Road/data/train/651299
+/Users/fsm/Road/data/train/408080
+/Users/fsm/Road/data/train/575623
+/Users/fsm/Road/data/train/678881
+/Users/fsm/Road/data/train/30689
+/Users/fsm/Road/data/train/133910
+/Users/fsm/Road/data/train/633221
+/Users/fsm/Road/data/train/964261
+/Users/fsm/Road/data/train/856184
+/Users/fsm/Road/data/train/384422
+/Users/fsm/Road/data/train/976894
+/Users/fsm/Road/data/train/974250
+/Users/fsm/Road/data/train/186646
+/Users/fsm/Road/data/train/80442
+/Users/fsm/Road/data/train/173306
+/Users/fsm/Road/data/train/328350
+/Users/fsm/Road/data/train/522344
+/Users/fsm/Road/data/train/400867
+/Users/fsm/Road/data/train/652681
+/Users/fsm/Road/data/train/701827
+/Users/fsm/Road/data/train/880700
+/Users/fsm/Road/data/train/458584
+/Users/fsm/Road/data/train/923845
+/Users/fsm/Road/data/train/511798
+/Users/fsm/Road/data/train/813939
+/Users/fsm/Road/data/train/562433
+/Users/fsm/Road/data/train/110277
+/Users/fsm/Road/data/train/692169
+/Users/fsm/Road/data/train/907388
+/Users/fsm/Road/data/train/707554
+/Users/fsm/Road/data/train/460609
+/Users/fsm/Road/data/train/457731
+/Users/fsm/Road/data/train/972206
+/Users/fsm/Road/data/train/611968
+/Users/fsm/Road/data/train/604916
+/Users/fsm/Road/data/train/146735
+/Users/fsm/Road/data/train/95185
+/Users/fsm/Road/data/train/60720
+/Users/fsm/Road/data/train/363388
+/Users/fsm/Road/data/train/152177
+/Users/fsm/Road/data/train/852527
+/Users/fsm/Road/data/train/719635
+/Users/fsm/Road/data/train/348069
+/Users/fsm/Road/data/train/409572
+/Users/fsm/Road/data/train/275185
+/Users/fsm/Road/data/train/363067
+/Users/fsm/Road/data/train/637684
+/Users/fsm/Road/data/train/185983
+/Users/fsm/Road/data/train/630794
+/Users/fsm/Road/data/train/734040
+/Users/fsm/Road/data/train/404315
+/Users/fsm/Road/data/train/280425
+/Users/fsm/Road/data/train/649675
+/Users/fsm/Road/data/train/285121
+/Users/fsm/Road/data/train/662692
+/Users/fsm/Road/data/train/858506
+/Users/fsm/Road/data/train/159698
+/Users/fsm/Road/data/train/822197
+/Users/fsm/Road/data/train/632438
+/Users/fsm/Road/data/train/83827
+/Users/fsm/Road/data/train/360726
+/Users/fsm/Road/data/train/930016
+/Users/fsm/Road/data/train/980030
+/Users/fsm/Road/data/train/347421
+/Users/fsm/Road/data/train/889820
+/Users/fsm/Road/data/train/379226
+/Users/fsm/Road/data/train/794521
+/Users/fsm/Road/data/train/329147
+/Users/fsm/Road/data/train/99995
+/Users/fsm/Road/data/train/266869
+/Users/fsm/Road/data/train/755575
+/Users/fsm/Road/data/train/787091
+/Users/fsm/Road/data/train/130634
+/Users/fsm/Road/data/train/214053
+/Users/fsm/Road/data/train/930866
+/Users/fsm/Road/data/train/688388
+/Users/fsm/Road/data/train/326742
+/Users/fsm/Road/data/train/769777
+/Users/fsm/Road/data/train/884532
+/Users/fsm/Road/data/train/301490
+/Users/fsm/Road/data/train/437091
+/Users/fsm/Road/data/train/446860
+/Users/fsm/Road/data/train/411731
+/Users/fsm/Road/data/train/770001
+/Users/fsm/Road/data/train/758229
+/Users/fsm/Road/data/train/388859
+/Users/fsm/Road/data/train/885803
+/Users/fsm/Road/data/train/52581
+/Users/fsm/Road/data/train/649400
+/Users/fsm/Road/data/train/443588
+/Users/fsm/Road/data/train/93503
+/Users/fsm/Road/data/train/8078
+/Users/fsm/Road/data/train/167451
+/Users/fsm/Road/data/train/845865
+/Users/fsm/Road/data/train/831213
+/Users/fsm/Road/data/train/723127
+/Users/fsm/Road/data/train/836166
+/Users/fsm/Road/data/train/93880
+/Users/fsm/Road/data/train/106741
+/Users/fsm/Road/data/train/348118
+/Users/fsm/Road/data/train/27363
+/Users/fsm/Road/data/train/263363
+/Users/fsm/Road/data/train/555777
+/Users/fsm/Road/data/train/372422
+/Users/fsm/Road/data/train/848601
+/Users/fsm/Road/data/train/628686
+/Users/fsm/Road/data/train/736329
+/Users/fsm/Road/data/train/925315
+/Users/fsm/Road/data/train/853676
+/Users/fsm/Road/data/train/566886
+/Users/fsm/Road/data/train/407808
+/Users/fsm/Road/data/train/442708
+/Users/fsm/Road/data/train/268464
+/Users/fsm/Road/data/train/474581
+/Users/fsm/Road/data/train/107469
+/Users/fsm/Road/data/train/413047
+/Users/fsm/Road/data/train/363434
+/Users/fsm/Road/data/train/28727
+/Users/fsm/Road/data/train/681963
+/Users/fsm/Road/data/train/316248
+/Users/fsm/Road/data/train/483082
+/Users/fsm/Road/data/train/766536
+/Users/fsm/Road/data/train/188596
+/Users/fsm/Road/data/train/159273
+/Users/fsm/Road/data/train/408910
+/Users/fsm/Road/data/train/270111
+/Users/fsm/Road/data/train/688173
+/Users/fsm/Road/data/train/580959
+/Users/fsm/Road/data/train/266065
+/Users/fsm/Road/data/train/936196
+/Users/fsm/Road/data/train/514168
+/Users/fsm/Road/data/train/676440
+/Users/fsm/Road/data/train/304690
+/Users/fsm/Road/data/train/390365
+/Users/fsm/Road/data/train/576096
+/Users/fsm/Road/data/train/459539
+/Users/fsm/Road/data/train/127924
+/Users/fsm/Road/data/train/452514
+/Users/fsm/Road/data/train/489731
+/Users/fsm/Road/data/train/534866
+/Users/fsm/Road/data/train/109757
+/Users/fsm/Road/data/train/687396
+/Users/fsm/Road/data/train/529743
+/Users/fsm/Road/data/train/402305
+/Users/fsm/Road/data/train/300633
+/Users/fsm/Road/data/train/662422
+/Users/fsm/Road/data/train/18867
+/Users/fsm/Road/data/train/401546
+/Users/fsm/Road/data/train/314088
+/Users/fsm/Road/data/train/122953
+/Users/fsm/Road/data/train/978406
+/Users/fsm/Road/data/train/686693
+/Users/fsm/Road/data/train/329889
+/Users/fsm/Road/data/train/768401
+/Users/fsm/Road/data/train/870028
+/Users/fsm/Road/data/train/232755
+/Users/fsm/Road/data/train/149125
+/Users/fsm/Road/data/train/595717
+/Users/fsm/Road/data/train/852056
+/Users/fsm/Road/data/train/258318
+/Users/fsm/Road/data/train/436625
+/Users/fsm/Road/data/train/621824
+/Users/fsm/Road/data/train/592967
+/Users/fsm/Road/data/train/290444
+/Users/fsm/Road/data/train/469345
+/Users/fsm/Road/data/train/75611
+/Users/fsm/Road/data/train/854247
+/Users/fsm/Road/data/train/46601
+/Users/fsm/Road/data/train/990851
+/Users/fsm/Road/data/train/300773
+/Users/fsm/Road/data/train/798630
+/Users/fsm/Road/data/train/668618
+/Users/fsm/Road/data/train/862451
+/Users/fsm/Road/data/train/5555
+/Users/fsm/Road/data/train/201338
+/Users/fsm/Road/data/train/36988
+/Users/fsm/Road/data/train/18309
+/Users/fsm/Road/data/train/98029
+/Users/fsm/Road/data/train/491932
+/Users/fsm/Road/data/train/601983
+/Users/fsm/Road/data/train/651870
+/Users/fsm/Road/data/train/675819
+/Users/fsm/Road/data/train/788531
+/Users/fsm/Road/data/train/692627
+/Users/fsm/Road/data/train/211457
+/Users/fsm/Road/data/train/717068
+/Users/fsm/Road/data/train/823886
+/Users/fsm/Road/data/train/534274
+/Users/fsm/Road/data/train/107770
+/Users/fsm/Road/data/train/272876
+/Users/fsm/Road/data/train/595773
+/Users/fsm/Road/data/train/723990
+/Users/fsm/Road/data/train/353807
+/Users/fsm/Road/data/train/18717
+/Users/fsm/Road/data/train/866947
+/Users/fsm/Road/data/train/266032
+/Users/fsm/Road/data/train/409066
+/Users/fsm/Road/data/train/397590
+/Users/fsm/Road/data/train/927175
+/Users/fsm/Road/data/train/604143
+/Users/fsm/Road/data/train/864645
+/Users/fsm/Road/data/train/833783
+/Users/fsm/Road/data/train/224711
+/Users/fsm/Road/data/train/89597
+/Users/fsm/Road/data/train/532269
+/Users/fsm/Road/data/train/420624
+/Users/fsm/Road/data/train/631451
+/Users/fsm/Road/data/train/601401
+/Users/fsm/Road/data/train/363544
+/Users/fsm/Road/data/train/446852
+/Users/fsm/Road/data/train/932396
+/Users/fsm/Road/data/train/320163
+/Users/fsm/Road/data/train/107582
+/Users/fsm/Road/data/train/74143
+/Users/fsm/Road/data/train/879911
+/Users/fsm/Road/data/train/973890
+/Users/fsm/Road/data/train/367457
+/Users/fsm/Road/data/train/842450
+/Users/fsm/Road/data/train/882222
+/Users/fsm/Road/data/train/398502
+/Users/fsm/Road/data/train/279807
+/Users/fsm/Road/data/train/727435
+/Users/fsm/Road/data/train/923367
+/Users/fsm/Road/data/train/601618
+/Users/fsm/Road/data/train/850527
+/Users/fsm/Road/data/train/473205
+/Users/fsm/Road/data/train/556565
+/Users/fsm/Road/data/train/375965
+/Users/fsm/Road/data/train/927707
+/Users/fsm/Road/data/train/399107
+/Users/fsm/Road/data/train/666658
+/Users/fsm/Road/data/train/301568
+/Users/fsm/Road/data/train/186840
+/Users/fsm/Road/data/train/668712
+/Users/fsm/Road/data/train/879719
+/Users/fsm/Road/data/train/646974
+/Users/fsm/Road/data/train/183552
+/Users/fsm/Road/data/train/785363
+/Users/fsm/Road/data/train/783142
+/Users/fsm/Road/data/train/296866
+/Users/fsm/Road/data/train/944589
+/Users/fsm/Road/data/train/747616
+/Users/fsm/Road/data/train/423747
+/Users/fsm/Road/data/train/826780
+/Users/fsm/Road/data/train/450934
+/Users/fsm/Road/data/train/486861
+/Users/fsm/Road/data/train/6696
+/Users/fsm/Road/data/train/582585
+/Users/fsm/Road/data/train/180781
+/Users/fsm/Road/data/train/174734
+/Users/fsm/Road/data/train/577799
+/Users/fsm/Road/data/train/147586
+/Users/fsm/Road/data/train/831346
+/Users/fsm/Road/data/train/232039
+/Users/fsm/Road/data/train/707235
+/Users/fsm/Road/data/train/251425
+/Users/fsm/Road/data/train/566463
+/Users/fsm/Road/data/train/106119
+/Users/fsm/Road/data/train/624936
+/Users/fsm/Road/data/train/260008
+/Users/fsm/Road/data/train/161576
+/Users/fsm/Road/data/train/896391
+/Users/fsm/Road/data/train/780544
+/Users/fsm/Road/data/train/711268
+/Users/fsm/Road/data/train/140509
+/Users/fsm/Road/data/train/320503
+/Users/fsm/Road/data/train/44614
+/Users/fsm/Road/data/train/844808
+/Users/fsm/Road/data/train/260539
+/Users/fsm/Road/data/train/716115
+/Users/fsm/Road/data/train/729020
+/Users/fsm/Road/data/train/834703
+/Users/fsm/Road/data/train/854962
+/Users/fsm/Road/data/train/44658
+/Users/fsm/Road/data/train/168428
+/Users/fsm/Road/data/train/352991
+/Users/fsm/Road/data/train/243937
+/Users/fsm/Road/data/train/197331
+/Users/fsm/Road/data/train/153089
+/Users/fsm/Road/data/train/292761
+/Users/fsm/Road/data/train/192726
+/Users/fsm/Road/data/train/710283
+/Users/fsm/Road/data/train/156715
+/Users/fsm/Road/data/train/53349
+/Users/fsm/Road/data/train/701651
+/Users/fsm/Road/data/train/973094
+/Users/fsm/Road/data/train/378296
+/Users/fsm/Road/data/train/557244
+/Users/fsm/Road/data/train/605723
+/Users/fsm/Road/data/train/314575
+/Users/fsm/Road/data/train/982396
+/Users/fsm/Road/data/train/514835
+/Users/fsm/Road/data/train/775478
+/Users/fsm/Road/data/train/688847
+/Users/fsm/Road/data/train/631884
+/Users/fsm/Road/data/train/937644
+/Users/fsm/Road/data/train/405461
+/Users/fsm/Road/data/train/331119
+/Users/fsm/Road/data/train/788463
+/Users/fsm/Road/data/train/760294
+/Users/fsm/Road/data/train/683814
+/Users/fsm/Road/data/train/909630
+/Users/fsm/Road/data/train/466175
+/Users/fsm/Road/data/train/506830
+/Users/fsm/Road/data/train/452403
+/Users/fsm/Road/data/train/933320
+/Users/fsm/Road/data/train/360450
+/Users/fsm/Road/data/train/152146
+/Users/fsm/Road/data/train/379698
+/Users/fsm/Road/data/train/662620
+/Users/fsm/Road/data/train/322781
+/Users/fsm/Road/data/train/82144
+/Users/fsm/Road/data/train/425224
+/Users/fsm/Road/data/train/123067
+/Users/fsm/Road/data/train/279862
+/Users/fsm/Road/data/train/874302
+/Users/fsm/Road/data/train/451225
+/Users/fsm/Road/data/train/221254
+/Users/fsm/Road/data/train/197342
+/Users/fsm/Road/data/train/98599
+/Users/fsm/Road/data/train/944024
+/Users/fsm/Road/data/train/679091
+/Users/fsm/Road/data/train/785870
+/Users/fsm/Road/data/train/697903
+/Users/fsm/Road/data/train/786084
+/Users/fsm/Road/data/train/103056
+/Users/fsm/Road/data/train/873862
+/Users/fsm/Road/data/train/823438
+/Users/fsm/Road/data/train/80092
+/Users/fsm/Road/data/train/352630
+/Users/fsm/Road/data/train/121240
+/Users/fsm/Road/data/train/828130
+/Users/fsm/Road/data/train/39878
+/Users/fsm/Road/data/train/643427
+/Users/fsm/Road/data/train/829034
+/Users/fsm/Road/data/train/401773
+/Users/fsm/Road/data/train/646948
+/Users/fsm/Road/data/train/976759
+/Users/fsm/Road/data/train/97115
+/Users/fsm/Road/data/train/497916
+/Users/fsm/Road/data/train/534629
+/Users/fsm/Road/data/train/290587
+/Users/fsm/Road/data/train/23964
+/Users/fsm/Road/data/train/369819
+/Users/fsm/Road/data/train/720018
+/Users/fsm/Road/data/train/37982
+/Users/fsm/Road/data/train/718185
+/Users/fsm/Road/data/train/18570
+/Users/fsm/Road/data/train/457071
+/Users/fsm/Road/data/train/480057
+/Users/fsm/Road/data/train/234632
+/Users/fsm/Road/data/train/104943
+/Users/fsm/Road/data/train/489779
+/Users/fsm/Road/data/train/800523
+/Users/fsm/Road/data/train/69568
+/Users/fsm/Road/data/train/901602
+/Users/fsm/Road/data/train/140927
+/Users/fsm/Road/data/train/30207
+/Users/fsm/Road/data/train/248633
+/Users/fsm/Road/data/train/256474
+/Users/fsm/Road/data/train/826258
+/Users/fsm/Road/data/train/946030
+/Users/fsm/Road/data/train/285997
+/Users/fsm/Road/data/train/100841
+/Users/fsm/Road/data/train/703624
+/Users/fsm/Road/data/train/441253
+/Users/fsm/Road/data/train/224260
+/Users/fsm/Road/data/train/237220
+/Users/fsm/Road/data/train/948754
+/Users/fsm/Road/data/train/678993
+/Users/fsm/Road/data/train/771348
+/Users/fsm/Road/data/train/100081
+/Users/fsm/Road/data/train/696550
+/Users/fsm/Road/data/train/143802
+/Users/fsm/Road/data/train/16422
+/Users/fsm/Road/data/train/805996
+/Users/fsm/Road/data/train/299564
+/Users/fsm/Road/data/train/874009
+/Users/fsm/Road/data/train/673794
+/Users/fsm/Road/data/train/130614
+/Users/fsm/Road/data/train/299504
+/Users/fsm/Road/data/train/615723
+/Users/fsm/Road/data/train/782793
+/Users/fsm/Road/data/train/220692
+/Users/fsm/Road/data/train/429679
+/Users/fsm/Road/data/train/175121
+/Users/fsm/Road/data/train/791632
+/Users/fsm/Road/data/train/583583
+/Users/fsm/Road/data/train/165156
+/Users/fsm/Road/data/train/816622
+/Users/fsm/Road/data/train/799678
+/Users/fsm/Road/data/train/659209
+/Users/fsm/Road/data/train/590576
+/Users/fsm/Road/data/train/126358
+/Users/fsm/Road/data/train/841070
+/Users/fsm/Road/data/train/378114
+/Users/fsm/Road/data/train/504527
+/Users/fsm/Road/data/train/3602
+/Users/fsm/Road/data/train/764396
+/Users/fsm/Road/data/train/71574
+/Users/fsm/Road/data/train/996964
+/Users/fsm/Road/data/train/300458
+/Users/fsm/Road/data/train/465665
+/Users/fsm/Road/data/train/569918
+/Users/fsm/Road/data/train/44562
+/Users/fsm/Road/data/train/212245
+/Users/fsm/Road/data/train/794194
+/Users/fsm/Road/data/train/794377
+/Users/fsm/Road/data/train/693103
+/Users/fsm/Road/data/train/75815
+/Users/fsm/Road/data/train/464724
+/Users/fsm/Road/data/train/168486
+/Users/fsm/Road/data/train/412501
+/Users/fsm/Road/data/train/732691
+/Users/fsm/Road/data/train/852387
+/Users/fsm/Road/data/train/52850
+/Users/fsm/Road/data/train/580246
+/Users/fsm/Road/data/train/191071
+/Users/fsm/Road/data/train/521597
+/Users/fsm/Road/data/train/630865
+/Users/fsm/Road/data/train/503385
+/Users/fsm/Road/data/train/727773
+/Users/fsm/Road/data/train/362967
+/Users/fsm/Road/data/train/730270
+/Users/fsm/Road/data/train/116231
+/Users/fsm/Road/data/train/539391
+/Users/fsm/Road/data/train/933722
+/Users/fsm/Road/data/train/500599
+/Users/fsm/Road/data/train/124016
+/Users/fsm/Road/data/train/938410
+/Users/fsm/Road/data/train/95245
+/Users/fsm/Road/data/train/277891
+/Users/fsm/Road/data/train/429369
+/Users/fsm/Road/data/train/29952
+/Users/fsm/Road/data/train/81539
+/Users/fsm/Road/data/train/285535
+/Users/fsm/Road/data/train/579118
+/Users/fsm/Road/data/train/164300
+/Users/fsm/Road/data/train/973434
+/Users/fsm/Road/data/train/603213
+/Users/fsm/Road/data/train/617696
+/Users/fsm/Road/data/train/261263
+/Users/fsm/Road/data/train/262288
+/Users/fsm/Road/data/train/293592
+/Users/fsm/Road/data/train/62371
+/Users/fsm/Road/data/train/178776
+/Users/fsm/Road/data/train/786966
+/Users/fsm/Road/data/train/820023
+/Users/fsm/Road/data/train/743645

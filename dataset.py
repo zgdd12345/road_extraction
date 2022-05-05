@@ -5,7 +5,7 @@ import cv2
 from torch.utils.data import Dataset
 from torchvision import transforms
 
-from utils.dataArgumentation import data_argumentation
+from utils.dataArgumentation import data_argumentation, random_hue_saturation_value
 
 
 mask_transform = transforms.Compose([
@@ -83,6 +83,7 @@ class RoadDataset(Dataset):
 
         if self.train:
             img, mask = data_argumentation(img, mask)
+            img = random_hue_saturation_value(img)  # 色彩饱和度
 
         return img_transform(img), mask_transform(mask)
 
