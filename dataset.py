@@ -62,13 +62,13 @@ class RoadDataset(Dataset):
         plt.figure(figsize=(20, 10))
         plt.subplot(1, 2, 1)
         plt.title('original')
-        plt.imshow(img.permute(1, 2, 0))  # mark
+        plt.imshow(img.transpose(0, 1, 2))  # mark
         plt.xticks([])
         plt.yticks([])
 
         plt.subplot(1, 2, 2)
         plt.title('ground truth')
-        plt.imshow(mask.permute(1, 2, 0), cmap='gray', interpolation='nearest')
+        plt.imshow(mask.transpose(0, 1, 2), cmap='gray', interpolation='nearest')
         plt.xticks([])
         plt.yticks([])
 
@@ -85,7 +85,7 @@ class RoadDataset(Dataset):
             img, mask = data_argumentation(img, mask)
             img = random_hue_saturation_value(img)  # 色彩饱和度
 
-        return img_transform(img), mask_transform(mask)
+        return img, mask  # img_transform(img), mask_transform(mask)
 
     # @staticmethod
     # def _data_argumentation(img, mask):
@@ -108,8 +108,8 @@ class RoadDataset(Dataset):
     #     return img, mask
 
 
-train_path = './data/train.txt'
-
+# train_path = './data/train.txt'
+train_path = '/Users/fsm/Road/road_extraction/data/train.txt'
 train_dataset = RoadDataset(train_path, train=True)
 print(len(train_dataset))
 
