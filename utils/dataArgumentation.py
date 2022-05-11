@@ -1,5 +1,3 @@
-from PIL import Image
-import matplotlib.pyplot as plt
 import numpy as np
 import cv2
 
@@ -123,7 +121,7 @@ def random_rotate_90(image, mask, u=0.5):
     return image, mask
 
 
-class Argumentation_DL:
+class ArgumentationDlink:
     def __init__(self, prob=0.5):
         self.prob = prob
 
@@ -306,5 +304,5 @@ data_argumentation = DualCompose([
     # Rotate(),
     # Shift(),
     # Rescale()
-    Argumentation_DL()
+    ArgumentationDlink()
 ])
